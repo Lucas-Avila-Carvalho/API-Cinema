@@ -146,12 +146,10 @@ E a mensagem de erro "Filme não encontrado."
 
 ### **Planejamento de Testes para a Rota `/movies`**
 
----
 
 ### **1. Objetivo**  
 Validar completamente a funcionalidade da rota `/movies`, incluindo o cadastro, listagem, atualização e exclusão de filmes. Os testes contemplam cenários positivos, negativos e de borda, utilizando tanto testes manuais quanto automatizados.  
 
----
 
 ### **2. Tipos de Testes Considerados**  
 - **Funcionais:** Validação das funcionalidades de cadastro, listagem, atualização e exclusão.  
@@ -177,9 +175,8 @@ Validar completamente a funcionalidade da rota `/movies`, incluindo o cadastro, 
 | Segurança          | Manual       | Garantir que usuários não autenticados não possam acessar a rota `/movies`.                                                                                                                                                                      | 1. Tentar acessar qualquer método da rota `/movies` sem token JWT.<br>2. Validar retorno 401.                                                                                                                                        | Código 401 Unauthorized.<br>Mensagem: *"Token inválido ou ausente."*                                                                                                   |
 | Segurança          | Manual       | Garantir que um token JWT inválido ou expirado bloqueie o acesso à rota `/movies`.                                                                                                                                                               | 1. Enviar requisição com token inválido ou expirado.<br>2. Validar status 401 e mensagem de erro.                                                                                                                                     | Código 401 Unauthorized.<br>Mensagem: *"Token inválido ou expirado."*                                                                                                  |
 
----
 
-#### **Funcionalidade:** Listagem de Filmes  
+### **Funcionalidade:** Listagem de Filmes  
 
 | **Tipo de Teste** | **Execução** | **Cenário**                                                                                                                                                                                                                                       | **Passos**                                                                                                                                                                                                                             | **Resultados Esperados**                                                                                                                                               |
 |--------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
