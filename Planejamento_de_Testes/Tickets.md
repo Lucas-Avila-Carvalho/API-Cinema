@@ -1,244 +1,162 @@
-# **User Story: (Rota `/tickets`)**
-
-
-### **Título:** Gerenciamento de Ingressos de Filmes
-
-### **Descrição:**  
-Como um **usuário autenticado**,  
-Quero gerenciar ingressos para filmes (criar, listar, atualizar e excluir),  
-Para organizar a venda e acompanhamento de ingressos.
-
-
-### **Critérios de Aceitação Detalhados:**
-
-#### **1. Cadastro de Ingressos**
-- Usuários autenticados podem cadastrar novos ingressos para filmes específicos.  
-- Campos obrigatórios:  
-  - **Filme (ID do filme)** (string, obrigatório).  
-  - **Preço** (número positivo, obrigatório).  
-  - **Sessão (data e hora)** (formato ISO: `YYYY-MM-DDTHH:mm:ss`, obrigatório).  
-
-#### **2. Listagem de Ingressos**
-- Usuários podem listar todos os ingressos cadastrados.  
-- O sistema deve suportar filtros opcionais:  
-  - Por filme (ID).  
-  - Por intervalo de preço.  
-  - Por data da sessão.  
-
-#### **3. Atualização de Ingressos**
-- Usuários autenticados podem atualizar ingressos existentes.  
-- Os mesmos campos do cadastro devem ser validados.
-
-#### **4. Exclusão de Ingressos**
-- Usuários autenticados podem excluir ingressos.  
-- Caso o ID do ingresso não seja encontrado, o sistema deve retornar uma mensagem de erro.
-
-#### **5. Validação e Segurança**
-- Todas as ações exigem autenticação com token JWT.  
-- Campos obrigatórios devem ser validados, e erros de validação devem ser claros e específicos.  
-
-
-### **Cenários de Testes em Gherkin**
-
-#### **Cenário 1: Cadastro bem-sucedido de um ingresso**
-```gherkin
-Funcionalidade: Cadastro de Ingressos
-Cenário: Cadastro bem-sucedido de um ingresso
-Dado que o usuário está autenticado com um token JWT válido
-E envia uma requisição POST para a rota "/tickets"
-E fornece os seguintes dados válidos:
-  | Campo          | Valor                |
-  | Filme          | abc123               |
-  | Preço          | 50.00                |
-  | Sessão         | 2024-12-01T19:30:00  |
-Quando o sistema processa a requisição
-Então deve retornar o código de status 201 Created
-E o corpo da resposta deve conter os dados do ingresso cadastrado, incluindo o ID:
-  """
-  {
-    "id": "ticket123",
-    "filme": "abc123",
-    "preco": 50.00,
-    "sessao": "2024-12-01T19:30:00"
-  }
-  """
-```
-
-
-#### **Cenário 2: Listagem de ingressos sem filtros**
-```gherkin
-Funcionalidade: Listagem de Ingressos
-Cenário: Listar todos os ingressos cadastrados
-Dado que o usuário está autenticado com um token JWT válido
-Quando o usuário envia uma requisição GET para a rota "/tickets"
-Então o sistema deve retornar o código de status 200 OK
-E uma lista de ingressos no corpo da resposta:
-  """
-  [
-    {
-      "id": "ticket123",
-      "filme": "abc123",
-      "preco": 50.00,
-      "sessao": "2024-12-01T19:30:00"
-    },
-    {
-      "id": "ticket456",
-      "filme": "def456",
-      "preco": 30.00,
-      "sessao": "2024-12-05T21:00:00"
-    }
-  ]
-  """
-```
-
-
-#### **Cenário 3: Falha ao cadastrar ingresso sem token**
-```gherkin
-Funcionalidade: Cadastro de Ingressos
-Cenário: Falha ao cadastrar ingresso sem autenticação
-Dado que o usuário não está autenticado
-Quando o usuário envia uma requisição POST para a rota "/tickets" com dados válidos
-Então o sistema deve retornar o código de status 401 Unauthorized
-E a mensagem de erro "Token inválido ou ausente."
-```
-
-
-#### **Cenário 4: Atualização de ingresso com sucesso**
-```gherkin
-Funcionalidade: Atualização de Ingressos
-Cenário: Atualizar ingresso existente com sucesso
-Dado que o usuário está autenticado com um token JWT válido
-E já existe um ingresso com ID "ticket123"
-Quando o usuário envia uma requisição PUT para a rota "/tickets/ticket123" com os dados:
-  | Campo          | Valor                |
-  | Preço          | 60.00                |
-  | Sessão         | 2024-12-02T20:00:00  |
-Então o sistema deve retornar o código de status 200 OK
-E o corpo da resposta deve conter os dados atualizados:
-  """
-  {
-    "id": "ticket123",
-    "filme": "abc123",
-    "preco": 60.00,
-    "sessao": "2024-12-02T20:00:00"
-  }
-  """
-```
-
-
-#### **Cenário 5: Exclusão de um ingresso inexistente**
-```gherkin
-Funcionalidade: Exclusão de Ingressos
-Cenário: Falha ao excluir um ingresso inexistente
-Dado que o usuário está autenticado com um token JWT válido
-E não existe um ingresso com ID "ticket999"
-Quando o usuário envia uma requisição DELETE para a rota "/tickets/ticket999"
-Então o sistema deve retornar o código de status 404 Not Found
-E a mensagem de erro "Ingresso não encontrado."
-```
-
-
-#### **Cenário 6: Cadastro falha por campo obrigatório ausente**
-```gherkin
-Funcionalidade: Cadastro de Ingressos
-Cenário: Falha ao cadastrar ingresso sem o campo obrigatório "Preço"
-Dado que o usuário está autenticado com um token JWT válido
-E envia uma requisição POST para a rota "/tickets" sem o campo "Preço"
-Quando o sistema processa a requisição
-Então deve retornar o código de status 400 Bad Request
-E a mensagem de erro "O campo Preço é obrigatório."
-```
-
 ### **Planejamento de Testes para a Rota `/tickets`**
 
+### **1. Objetivo**
+Garantir que a funcionalidade de reserva de ingressos na API seja robusta, segura e eficiente, cobrindo todos os cenários de cadastro, validação, segurança e desempenho.
 
-### **1. Objetivo**  
-Validar completamente a funcionalidade da rota `/tickets`, incluindo cadastro, listagem, atualização e exclusão de ingressos. O planejamento abrange cenários positivos, negativos e de borda, utilizando testes manuais e automatizados, além de verificar validações, segurança, e desempenho.
+---
 
+### **2. Tipos de Testes Considerados**
+- **Funcionais:** Validação de todos os cenários relacionados a operações de CRUD.
+- **Validação de Regras de Negócio:** Verificar limites de campos e consistência nas validações.
+- **Segurança:** Certificar que apenas usuários autenticados possam realizar operações.
+- **Performance:** Avaliar a resposta da API sob alta carga e latência.
+- **Testes de Bordas:** Explorar os limites dos campos numéricos e de strings.
 
-### **2. Tipos de Testes Considerados**  
-- **Funcionais:** Testar as operações de CRUD na rota.  
-- **Validação de Campos:** Garantir que os campos obrigatórios e opcionais sejam processados corretamente.  
-- **Segurança:** Validar autenticação JWT e impedir acessos não autorizados.  
-- **Performance:** Avaliar a eficiência das respostas em cenários de alta carga.  
-- **Testes de Erro:** Confirmar que mensagens de erro são claras e adequadas.  
+---
 
+### **3. Casos de Teste Planejados**
 
-### **3. Testes Planejados**
+#### **Funcionalidade:** Cadastro de Ingressos  
 
+| **Tipo de Teste**   | **Cenário**                                                                                           | **Passos**                                                                                                 | **Resultado Esperado**                                                                 |
+|----------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Funcional            | Cadastro de ingresso válido.                                                                        | 1. Enviar POST para `/tickets` com payload válido.<br>2. Validar status 201 e corpo da resposta.           | Código 201 Created.<br>Resposta contém dados do ingresso, incluindo ID.              |
+| Validação de Campos  | Falha ao cadastrar ingresso com "assento" fora do intervalo (0-99).                                 | 1. Enviar POST para `/tickets` com `seatNumber` = 150.<br>2. Validar status 400 e mensagem de erro.         | Código 400 Bad Request.<br>Mensagem: *"Número de assento deve estar entre 0 e 99."*  |
+| Validação de Campos  | Falha ao cadastrar ingresso com "preço" acima do limite (60).                                       | 1. Enviar POST para `/tickets` com `price` = 100.<br>2. Validar status 400 e mensagem de erro.              | Código 400 Bad Request.<br>Mensagem: *"Preço deve ser menor ou igual a 60."*         |
+| Validação de Campos  | Falha ao cadastrar ingresso sem um campo obrigatório (e.g., `movieId`).                             | 1. Enviar POST para `/tickets` sem `movieId`.<br>2. Validar status 400 e mensagem de erro.                  | Código 400 Bad Request.<br>Mensagem: *"O campo movieId é obrigatório."*             |
+| Segurança            | Cadastro sem autenticação.                                                                          | 1. Enviar POST para `/tickets` sem token JWT.<br>2. Validar status 401 e mensagem de erro.                  | Código 401 Unauthorized.<br>Mensagem: *"Token inválido ou ausente."*                |
 
-### **Funcionalidade:** Cadastro de Ingressos  
+---
 
-| **Tipo de Teste**   | **Execução** | **Cenário**                                                                                                                                                                                                                                         | **Passos**                                                                                                                                                                                                 | **Resultados Esperados**                                                                                                                      |
-|----------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Funcional            | Automático   | Cadastro de um ingresso válido.                                                                                                                                                                                                                     | 1. Enviar requisição POST para `/tickets` com payload válido.<br>2. Validar status 201 e corpo da resposta.                                                                                           | Código 201 Created.<br>Resposta contém dados do ingresso cadastrado, incluindo ID.                                                            |
-| Funcional            | Automático   | Cadastro sem autenticação.                                                                                                                                                                                                                          | 1. Enviar requisição POST para `/tickets` sem token JWT.<br>2. Validar status 401 e mensagem de erro.                                                                                                | Código 401 Unauthorized.<br>Mensagem: *"Token inválido ou ausente."*                                                                           |
-| Validação de Campos  | Automático   | Falha ao cadastrar sem o campo obrigatório "filme".                                                                                                                                                                                                 | 1. Enviar requisição POST para `/tickets` sem o campo "filme".<br>2. Validar status 400 e mensagem de erro.                                                                                          | Código 400 Bad Request.<br>Mensagem: *"O campo filme é obrigatório."*                                                                          |
-| Validação de Campos  | Automático   | Cadastro de ingresso com "preço" zero ou negativo.                                                                                                                                                                                                  | 1. Enviar requisição POST para `/tickets` com `preco` igual a 0 ou negativo.<br>2. Validar status 400 e mensagem de erro.                                                                             | Código 400 Bad Request.<br>Mensagem: *"O campo preço deve ser maior que zero."*                                                                |
-| Segurança            | Manual       | Garantir que usuários não autenticados não possam acessar a rota `/tickets`.                                                                                                                                                                                                                                                   |
+#### **Funcionalidade:** Listagem de Ingressos  
 
+| **Tipo de Teste**   | **Cenário**                                                                                           | **Passos**                                                                                                 | **Resultado Esperado**                                                                 |
+|----------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Funcional            | Listar todos os ingressos cadastrados.                                                              | 1. Enviar GET para `/tickets`.<br>2. Validar status 200 e conteúdo da resposta.                            | Código 200 OK.<br>Resposta contém array com todos os ingressos cadastrados.          |
+| Funcional            | Filtrar ingressos por `movieId`.                                                                    | 1. Enviar GET para `/tickets?movieId=123`.<br>2. Validar que apenas ingressos correspondentes ao filtro.   | Código 200 OK.<br>Lista contém apenas ingressos do filme especificado.              |
+| Performance          | Verificar tempo de resposta com 1000 ingressos cadastrados.                                         | 1. Popular base com 1000 ingressos.<br>2. Enviar GET para `/tickets`.<br>3. Medir tempo de resposta.       | Resposta em menos de 300 ms.<br>Status 200 OK.                                       |
 
-### **Funcionalidade:** Listagem de Ingressos  
+---
 
-| **Tipo de Teste** | **Execução** | **Cenário**                                                                                                                                                                                                                                         | **Passos**                                                                                                                                                                                                 | **Resultados Esperados**                                                                                                                      |
-|--------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Funcional          | Automático   | Listar todos os ingressos cadastrados.                                                                                                                                                                                                             | 1. Enviar requisição GET para `/tickets`.<br>2. Validar status 200 e conteúdo da resposta.                                                                                                            | Código 200 OK.<br>Resposta contém array com todos os ingressos cadastrados.                                                                   |
-| Funcional          | Automático   | Filtrar ingressos por filme.                                                                                                                                                                                                                       | 1. Enviar requisição GET para `/tickets?filme=abc123`.<br>2. Validar status 200 e que apenas ingressos relacionados ao filme "abc123" são retornados.                                                | Código 200 OK.<br>Resposta contém apenas ingressos filtrados.                                                                                  |
-| Performance        | Automático   | Verificar performance da listagem com 1000 ingressos cadastrados.                                                                                                                                                                                 | 1. Popular a base com 1000 registros de ingressos.<br>2. Enviar requisição GET para `/tickets`.<br>3. Medir tempo de resposta.                                                                        | Resposta deve ser retornada em menos de 2 segundos.                                                                                           |
+#### **Funcionalidade:** Atualização de Ingressos  
 
+| **Tipo de Teste**   | **Cenário**                                                                                           | **Passos**                                                                                                 | **Resultado Esperado**                                                                 |
+|----------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Funcional            | Atualizar preço e assento de um ingresso existente.                                                 | 1. Enviar PUT para `/tickets/{id}` com payload válido.<br>2. Validar status 200 e dados atualizados.       | Código 200 OK.<br>Dados do ingresso atualizados com sucesso.                         |
+| Funcional            | Falha ao atualizar um ingresso inexistente.                                                        | 1. Enviar PUT para `/tickets/{id_inexistente}`.<br>2. Validar status 404 e mensagem de erro.               | Código 404 Not Found.<br>Mensagem: *"Ingresso não encontrado."*                     |
 
-### **Funcionalidade:** Atualização de Ingressos  
+---
 
-| **Tipo de Teste**   | **Execução** | **Cenário**                                                                                                                                                                                                                                         | **Passos**                                                                                                                                                                                                 | **Resultados Esperados**                                                                                                                      |
-|----------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Funcional            | Automático   | Atualizar ingresso com sucesso.                                                                                                                                                                                                                    | 1. Enviar requisição PUT para `/tickets/{id}` com payload válido.<br>2. Validar status 200 e corpo da resposta.                                                                                       | Código 200 OK.<br>Ingresso atualizado com os novos dados fornecidos.                                                                          |
-| Funcional            | Automático   | Falha ao atualizar um ingresso inexistente.                                                                                                                                                                                                        | 1. Enviar requisição PUT para `/tickets/{id_inexistente}`.<br>2. Validar status 404 e mensagem de erro.                                                                                              | Código 404 Not Found.<br>Mensagem: *"Ingresso não encontrado."*                                                                               |
+#### **Funcionalidade:** Exclusão de Ingressos  
 
+| **Tipo de Teste**   | **Cenário**                                                                                           | **Passos**                                                                                                 | **Resultado Esperado**                                                                 |
+|----------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Funcional            | Excluir ingresso com sucesso.                                                                       | 1. Criar ingresso.<br>2. Enviar DELETE para `/tickets/{id}`.<br>3. Validar status 204 No Content.          | Código 204 No Content.<br>Ingresso removido com sucesso.                             |
+| Funcional            | Falha ao excluir um ingresso inexistente.                                                          | 1. Enviar DELETE para `/tickets/{id_inexistente}`.<br>2. Validar status 404 e mensagem de erro.            | Código 404 Not Found.<br>Mensagem: *"Ingresso não encontrado."*                     |
 
-### **Funcionalidade:** Exclusão de Ingressos  
+---
 
-| **Tipo de Teste**   | **Execução** | **Cenário**                                                                                                                                                                                                                                         | **Passos**                                                                                                                                                                                                 | **Resultados Esperados**                                                                                                                      |
-|----------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
-| Funcional            | Automático   | Excluir ingresso com sucesso.                                                                                                                                                                                                                      | 1. Criar um ingresso.<br>2. Enviar requisição DELETE para `/tickets/{id}`.<br>3. Validar status 204 No Content.                                                                                       | Código 204 No Content.<br>Ingresso removido da base.                                                                                          |
-| Funcional            | Automático   | Falha ao excluir um ingresso inexistente.                                                                                                                                                                                                          | 1. Enviar requisição DELETE para `/tickets/{id_inexistente}`.<br>2. Validar status 404 e mensagem de erro.                                                                                           | Código 404 Not Found.<br>Mensagem: *"Ingresso não encontrado."*                                                                               |
+### **4. Requisitos Não Funcionais**
 
+#### **Performance**
+- Processar no mínimo **50 solicitações de reserva por segundo**.
+- Garantir resposta média em **menos de 300 milissegundos**.
 
+#### **Segurança**
+- Somente usuários autenticados podem acessar as operações.
 
+#### **Automação**
+- Utilizar ferramentas como Postman, Cypress, ou RestAssured para testes automatizados.
 
-### **Funcionalidades**  
-- **Cadastro de Ingressos:** Permite registrar novos ingressos com informações obrigatórias e opcionais.  
-- **Listagem de Ingressos:** Exibe todos os ingressos cadastrados com suporte a filtros.  
-- **Atualização de Ingressos:** Atualiza informações como preço ou data da sessão.  
-- **Exclusão de Ingressos:** Remove ingressos com base no ID.
+---
 
+### **5. Total de Testes Planejados**
+- **Funcionais:** 12
+- **Validações:** 8
+- **Segurança:** 4
+- **Performance:** 2  
+**Total:** **26 Testes Planejados**
 
-### **Recursos Necessários**  
-- **Ambiente de Testes:**  
-  - Base de dados configurada para validar operações de CRUD.  
-  - Simuladores de carga para testes de performance.  
-- **Ferramentas de Automação:**  
-  - Postman, RestAssured ou Cypress para automação de testes de API.  
-  - Gerador de dados para criar ingressos fictícios com diferentes combinações de valores.  
+### **Cenários de Testes em Gherkin para Reserva de Ingressos**  
 
+#### **Cenário 1: Reserva bem-sucedida de um ingresso**  
+```gherkin  
+Funcionalidade: Reserva de Ingressos  
+Cenário: Reserva bem-sucedida de um ingresso  
+Dado que o usuário está autenticado com um token JWT válido  
+E envia uma requisição POST para o endpoint "/tickets" com os seguintes detalhes:  
+  | Campo          | Valor                |  
+  | movieId        | abc123               |  
+  | userId         | user001              |  
+  | seatNumber     | 15                   |  
+  | price          | 50.00                |  
+  | showtime       | 2024-12-01T19:30:00  |  
+Quando o sistema processa a requisição  
+Então deve retornar o código de status 201 Created  
+E o corpo da resposta deve conter os detalhes da reserva com um ID único:  
+  """  
+  {  
+    "id": "reservation123",  
+    "movieId": "abc123",  
+    "userId": "user001",  
+    "seatNumber": 15,  
+    "price": 50.00,  
+    "showtime": "2024-12-01T19:30:00"  
+  }  
+  """  
+```  
 
-### **Critérios Usados**  
-- **Cobertura de Operações CRUD:** Validar o funcionamento completo da rota `/tickets`.  
-- **Cenários de Bordas:** Testar limites para campos numéricos e strings.  
-- **Validação de Segurança:** Garantir que o acesso não autorizado seja bloqueado.  
-- **Automação:** Priorizar cenários frequentes e repetitivos para automação.  
+#### **Cenário 2: Falha ao reservar ingresso com assento inválido**  
+```gherkin  
+Funcionalidade: Reserva de Ingressos  
+Cenário: Falha ao reservar ingresso com número de assento fora do intervalo permitido  
+Dado que o usuário está autenticado com um token JWT válido  
+E envia uma requisição POST para o endpoint "/tickets" com o número de assento 150  
+Quando o sistema processa a requisição  
+Então deve retornar o código de status 400 Bad Request  
+E a mensagem de erro "Número do assento deve estar entre 0 e 99."  
+```  
 
+#### **Cenário 3: Falha ao reservar ingresso com preço inválido**  
+```gherkin  
+Funcionalidade: Reserva de Ingressos  
+Cenário: Falha ao reservar ingresso com preço fora do intervalo permitido  
+Dado que o usuário está autenticado com um token JWT válido  
+E envia uma requisição POST para o endpoint "/tickets" com o preço -10  
+Quando o sistema processa a requisição  
+Então deve retornar o código de status 400 Bad Request  
+E a mensagem de erro "O preço deve estar entre 0 e 60."  
+```  
 
-### **Quantidade de Testes**  
-- **Testes Funcionais:** 16  
-- **Testes de Validação de Campos:** 6  
-- **Testes de Segurança:** 4  
-- **Testes de Performance:** 2  
-- **Total:** **28 Testes Planejados**
+#### **Cenário 4: Falha ao reservar ingresso com campo obrigatório ausente**  
+```gherkin  
+Funcionalidade: Reserva de Ingressos  
+Cenário: Falha ao reservar ingresso sem o campo "movieId"  
+Dado que o usuário está autenticado com um token JWT válido  
+E envia uma requisição POST para o endpoint "/tickets" sem o campo "movieId"  
+Quando o sistema processa a requisição  
+Então deve retornar o código de status 400 Bad Request  
+E a mensagem de erro "O campo movieId é obrigatório."  
+```  
 
+#### **Cenário 5: Performance da reserva de ingressos sob alta carga**  
+```gherkin  
+Funcionalidade: Performance da API  
+Cenário: A API deve processar 50 solicitações de reserva de ingressos por segundo  
+Dado que 50 usuários enviam requisições POST para o endpoint "/tickets" simultaneamente  
+Quando o sistema processa todas as requisições  
+Então cada resposta deve ter um tempo médio inferior a 300 milissegundos  
+E todas as requisições devem retornar o código de status 201 Created  
+```  
 
-### **Riscos**  
-- **Autenticação JWT:** Tokens expirados ou inválidos podem impedir testes legítimos.  
-- **Validação de Campos:** Valores incorretos podem passar se as validações não forem robustas.  
-- **Performance:** Respostas lentas em cenários de grande volume podem afetar a usabilidade.  
-
+#### **Cenário 6: Falha ao reservar ingresso sem autenticação**  
+```gherkin  
+Funcionalidade: Reserva de Ingressos  
+Cenário: Falha ao reservar ingresso sem autenticação  
+Dado que o usuário não está autenticado  
+E envia uma requisição POST para o endpoint "/tickets" com dados válidos  
+Quando o sistema processa a requisição  
+Então deve retornar o código de status 401 Unauthorized  
+E a mensagem de erro "Token inválido ou ausente."  
+```  
 
