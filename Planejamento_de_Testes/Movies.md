@@ -28,40 +28,42 @@ Validar os fluxos principais e alternativos da rota `/movies` de acordo com a **
 
 ### **4. Testes Planejados**
 
-#### **Cadastro de Filmes**
-| **Tipo de Teste**         | **Cenário**                                      | **Resultado Esperado**                                              |
-|---------------------------|--------------------------------------------------|----------------------------------------------------------------------|
-| Funcional (Automático)    | Criar um filme válido.                           | Código 201; Retorno com ID e detalhes do filme.                     |
-| Validação de Campos       | Falha ao omitir campos obrigatórios.             | Código 400; Mensagem: "Campo obrigatório ausente."                  |
-| Validação de Campos       | Título duplicado.                                | Código 409; Mensagem: "Título já cadastrado."                       |
-| Segurança (Automático)    | Enviar requisição sem autenticação.              | Código 401; Mensagem: "Token inválido ou ausente."                  |
+Segue a tabela com a coluna **Passos** adicionada antes do **Resultado Esperado**:  
 
-#### **Listagem de Filmes**
-| **Tipo de Teste**         | **Cenário**                                      | **Resultado Esperado**                                              |
-|---------------------------|--------------------------------------------------|----------------------------------------------------------------------|
-| Funcional (Automático)    | Listar todos os filmes.                          | Código 200; Array com todos os filmes.                              |
-| Funcional (Automático)    | Listar com filtro por gênero.                    | Código 200; Apenas filmes do gênero especificado.                   |
-| Performance               | Listagem de 1000 filmes cadastrados.             | Resposta < 2 segundos.                                              |
-| Segurança (Automático)    | Listar sem token JWT.                            | Código 401; Mensagem: "Token inválido ou ausente."                  |
+#### **Cadastro de Filmes**  
+| **Tipo de Teste**         | **Cenário**                                      | **Passos**                                                                                   | **Resultado Esperado**                                              |  
+|---------------------------|--------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------|  
+| Funcional (Automático)    | Criar um filme válido.                           | 1. Enviar requisição POST com dados válidos (título, gênero, diretor, etc.).                | Código 201; Retorno com ID e detalhes do filme.                     |  
+| Validação de Campos       | Falha ao omitir campos obrigatórios.             | 1. Enviar requisição POST omitindo um ou mais campos obrigatórios.                          | Código 400; Mensagem: "Campo obrigatório ausente."                  |  
+| Validação de Campos       | Título duplicado.                                | 1. Enviar requisição POST com título já cadastrado.                                          | Código 409; Mensagem: "Título já cadastrado."                       |  
+| Segurança (Automático)    | Enviar requisição sem autenticação.              | 1. Enviar requisição POST sem o token JWT no cabeçalho.                                      | Código 401; Mensagem: "Token inválido ou ausente."                  |  
 
-#### **Detalhes de um Filme**
-| **Tipo de Teste**         | **Cenário**                                      | **Resultado Esperado**                                              |
-|---------------------------|--------------------------------------------------|----------------------------------------------------------------------|
-| Funcional (Automático)    | Buscar filme existente por ID.                   | Código 200; Detalhes do filme.                                       |
-| Funcional (Automático)    | Buscar filme inexistente por ID.                 | Código 404; Mensagem: "Filme não encontrado."                       |
+#### **Listagem de Filmes**  
+| **Tipo de Teste**         | **Cenário**                                      | **Passos**                                                                                   | **Resultado Esperado**                                              |  
+|---------------------------|--------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------|  
+| Funcional (Automático)    | Listar todos os filmes.                          | 1. Enviar requisição GET sem filtros.                                                       | Código 200; Array com todos os filmes.                              |  
+| Funcional (Automático)    | Listar com filtro por gênero.                    | 1. Enviar requisição GET com parâmetro de filtro (gênero).                                   | Código 200; Apenas filmes do gênero especificado.                   |  
+| Performance               | Listagem de 1000 filmes cadastrados.             | 1. Cadastrar 1000 filmes. 2. Enviar requisição GET e medir o tempo de resposta.             | Resposta < 2 segundos.                                              |  
+| Segurança (Automático)    | Listar sem token JWT.                            | 1. Enviar requisição GET sem o token JWT no cabeçalho.                                       | Código 401; Mensagem: "Token inválido ou ausente."                  |  
 
-#### **Atualização de Filmes**
-| **Tipo de Teste**         | **Cenário**                                      | **Resultado Esperado**                                              |
-|---------------------------|--------------------------------------------------|----------------------------------------------------------------------|
-| Funcional (Automático)    | Atualizar título de um filme válido.             | Código 200; Retorno com detalhes atualizados.                       |
-| Validação de Campos       | Atualizar com título duplicado.                  | Código 409; Mensagem: "Título já cadastrado."                       |
-| Funcional (Automático)    | Atualizar filme inexistente.                     | Código 404; Mensagem: "Filme não encontrado."                       |
+#### **Detalhes de um Filme**  
+| **Tipo de Teste**         | **Cenário**                                      | **Passos**                                                                                   | **Resultado Esperado**                                              |  
+|---------------------------|--------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------|  
+| Funcional (Automático)    | Buscar filme existente por ID.                   | 1. Enviar requisição GET com ID válido no endpoint.                                          | Código 200; Detalhes do filme.                                       |  
+| Funcional (Automático)    | Buscar filme inexistente por ID.                 | 1. Enviar requisição GET com ID inválido ou não cadastrado.                                  | Código 404; Mensagem: "Filme não encontrado."                       |  
 
-#### **Exclusão de Filmes**
-| **Tipo de Teste**         | **Cenário**                                      | **Resultado Esperado**                                              |
-|---------------------------|--------------------------------------------------|----------------------------------------------------------------------|
-| Funcional (Automático)    | Excluir filme existente.                         | Código 204; Filme removido do banco.                                |
-| Funcional (Automático)    | Excluir filme inexistente.                       | Código 404; Mensagem: "Filme não encontrado."                       |
+#### **Atualização de Filmes**  
+| **Tipo de Teste**         | **Cenário**                                      | **Passos**                                                                                   | **Resultado Esperado**                                              |  
+|---------------------------|--------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------|  
+| Funcional (Automático)    | Atualizar título de um filme válido.             | 1. Enviar requisição PUT com ID válido e novos dados.                                       | Código 200; Retorno com detalhes atualizados.                       |  
+| Validação de Campos       | Atualizar com título duplicado.                  | 1. Enviar requisição PUT com título já cadastrado.                                           | Código 409; Mensagem: "Título já cadastrado."                       |  
+| Funcional (Automático)    | Atualizar filme inexistente.                     | 1. Enviar requisição PUT com ID inválido ou não cadastrado.                                  | Código 404; Mensagem: "Filme não encontrado."                       |  
+
+#### **Exclusão de Filmes**  
+| **Tipo de Teste**         | **Cenário**                                      | **Passos**                                                                                   | **Resultado Esperado**                                              |  
+|---------------------------|--------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------|  
+| Funcional (Automático)    | Excluir filme existente.                         | 1. Enviar requisição DELETE com ID válido.                                                  | Código 204; Filme removido do banco.                                |  
+| Funcional (Automático)    | Excluir filme inexistente.                       | 1. Enviar requisição DELETE com ID inválido ou não cadastrado.                               | Código 404; Mensagem: "Filme não encontrado."                       |                    |
 
 ---
 
