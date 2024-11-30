@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/lucas-carvalho-353102246/">
 <img src="https://img.icons8.com/?size=100&id=MR3dZdlA53te&format=png&color=000000"  height="30" >  <a/>
 <a href="https://github.com/Lucas-Avila-Carvalho">
-<img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000"  height="30" > 
+<img src="https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=777777"  height="30" > 
 <a/>
 
 
