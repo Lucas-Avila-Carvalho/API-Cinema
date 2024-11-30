@@ -7,3 +7,4 @@
 {"title":"A banana 4","description":"Uma banana 2 que se formou em artes","launchdate":"2023-10-11","showtimes":"2023-10-10","_id":"rYC0RAs9yIofwdgh"}
 {"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"cHXheIIgs03GKtWa"}
 {"title":"Novo Filme","description":"Descrição do Novo Filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z","2024-12-01T20:00:00Z"],"_id":"m0V6bD49pe9LZsSy"}
+{"title":"Filme Exemplo","description":"Descrição do filme exemplo.","launchdate":"2024-11-30T20:58:17.237Z","showtimes":["2024-12-01T10:00:00","2024-12-01T12:00:00"],"_id":"ryakGPBRTjBCtNbl"}
