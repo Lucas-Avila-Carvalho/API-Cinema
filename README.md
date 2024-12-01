@@ -4,7 +4,7 @@
 
 ##  ⚙️ &nbsp;Sobre mim 
 #### 🔭 Estudante de Tecnólogo em Sistemas pela Internet - IFSUL (Campus Pelotas);  
-#### 🔥 Estagiário na Empresa CompassUOL (Quality Assurence).  
+#### 🔥 Estagiário na Empresa CompassUOL (Quality Assurance).  
 #### 🌱 Aprendendo sobre QA, Backend, Frontend developer.  
 ####  📫 Como me encontrar
 
