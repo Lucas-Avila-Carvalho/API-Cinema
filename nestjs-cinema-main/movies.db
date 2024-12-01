@@ -2,9 +2,11 @@
 {"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"HDpazUUCM4LH5AW4"}
 {"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"NN3MG4E8irzym3b1"}
 {"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"a2UfBmfMX40L1zNw"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"cHXheIIgs03GKtWa"}
 {"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"j7ZcAKgKonltWM9A"}
+{"title":"Novo Filme","description":"Descrição do Novo Filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z","2024-12-01T20:00:00Z"],"_id":"m0V6bD49pe9LZsSy"}
 {"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"n5XmMfIMwgOb3b0R"}
 {"title":"A banana 4","description":"Uma banana 2 que se formou em artes","launchdate":"2023-10-11","showtimes":"2023-10-10","_id":"rYC0RAs9yIofwdgh"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"cHXheIIgs03GKtWa"}
-{"title":"Novo Filme","description":"Descrição do Novo Filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z","2024-12-01T20:00:00Z"],"_id":"m0V6bD49pe9LZsSy"}
 {"title":"Filme Exemplo","description":"Descrição do filme exemplo.","launchdate":"2024-11-30T20:58:17.237Z","showtimes":["2024-12-01T10:00:00","2024-12-01T12:00:00"],"_id":"ryakGPBRTjBCtNbl"}
+{"title":"Filme de Sucesso","description":"Um filme criado com sucesso","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z","2024-12-01T20:00:00Z"],"_id":"ySqFcdTG03QvtKfC"}
+{"title":"Filme com Data Inválida","description":"Descrição válida","launchdate":"data-invalida","showtimes":["2024-12-01T15:00:00Z"],"_id":"MD6spMpPDItbCMus"}

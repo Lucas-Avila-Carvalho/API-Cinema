@@ -1,4 +1,4 @@
-const { test, expect } = require('@playwright/test');
+import { test, expect } from '@playwright/test';
 
   test('Deve retornar uma lista de filmes com status 200', async ({ request }) => {
     const response = await request.get(`/movies`);
