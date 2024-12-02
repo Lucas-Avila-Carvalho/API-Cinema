@@ -68,7 +68,7 @@ npm install -D playwright@latest
 
 ### 5. Criar e Executar Testes com Playwright
 
-Adicione testes com Playwright criando arquivos em `e2e` e rodando os testes com:
+Adicione testes com Playwright criando arquivos em `tests` e rodando os testes com:
 
 ```bash
 npx playwright test
