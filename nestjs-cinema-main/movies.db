@@ -1,264 +1,523 @@
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"0jv4Sem1t2HKzPLr"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"347JFFxpgofhC737"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"7c0uzYxJNtu90L8y"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"BC8WcTTP3HPNj8ia"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"BLMrDyhDKEFEZEaD"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"OZGAA3mGLUS8TGBI"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"ObqZfkKwIQm7dLyz"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"UMTqQnv1M1ODwqPH"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"WdE91oBWcpr2JAm7"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Y9g89M5xkJpJgHHd"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"d7t3n77IqNmhrzGD"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"dmcv4heXc81LwNoH"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"lXeLVXUgMq014hoV"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"lihykuYoiobgVSCJ"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"n3YKCq7HcdYlY0qB"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"nllJlkSrUpGIu2ga"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"qb2MUEVtACzAj5av"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"rQ7rJauPzdHYSGaU"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"tBxBAiPEE1k4lrZX"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"wHvj9Y2EhkSAjNIU"}
-{"$$deleted":true,"_id":"ObqZfkKwIQm7dLyz"}
-{"$$deleted":true,"_id":"7c0uzYxJNtu90L8y"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"BW5JUdNAPeO9M2ho"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"lXeLVXUgMq014hoV"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"OZGAA3mGLUS8TGBI"}
-{"$$deleted":true,"_id":"d7t3n77IqNmhrzGD"}
-{"$$deleted":true,"_id":"rQ7rJauPzdHYSGaU"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"VypkES7pQj01V6FH"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"VypkES7pQj01V6FH"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"UMTqQnv1M1ODwqPH"}
-{"$$deleted":true,"_id":"347JFFxpgofhC737"}
-{"$$deleted":true,"_id":"WdE91oBWcpr2JAm7"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"9ta8amLsTDKVOUcR"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"BLMrDyhDKEFEZEaD"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"OZGAA3mGLUS8TGBI"}
-{"title":"Título Atualizado Sem Token","description":"Descrição sem autenticação","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"wHvj9Y2EhkSAjNIU"}
-{"$$deleted":true,"_id":"wHvj9Y2EhkSAjNIU"}
-{"$$deleted":true,"_id":"OZGAA3mGLUS8TGBI"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"aF8hFxXEI5cWqsg5"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"0jv4Sem1t2HKzPLr"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"dmcv4heXc81LwNoH"}
-{"$$deleted":true,"_id":"BC8WcTTP3HPNj8ia"}
-{"$$deleted":true,"_id":"BLMrDyhDKEFEZEaD"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"d5hCZnlm24NKTRzy"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"UMTqQnv1M1ODwqPH"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Y9g89M5xkJpJgHHd"}
-{"$$deleted":true,"_id":"0jv4Sem1t2HKzPLr"}
-{"$$deleted":true,"_id":"BW5JUdNAPeO9M2ho"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"tTIgz6P8c5lHZ35W"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"9ta8amLsTDKVOUcR"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"d5hCZnlm24NKTRzy"}
-{"$$deleted":true,"_id":"aF8hFxXEI5cWqsg5"}
-{"$$deleted":true,"_id":"n3YKCq7HcdYlY0qB"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"pEl4doesOfpSe7CW"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"qb2MUEVtACzAj5av"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"dmcv4heXc81LwNoH"}
-{"$$deleted":true,"_id":"tTIgz6P8c5lHZ35W"}
-{"$$deleted":true,"_id":"lihykuYoiobgVSCJ"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"Cwe413iQwv6u0ev5"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"UMTqQnv1M1ODwqPH"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"UMTqQnv1M1ODwqPH"}
-{"$$deleted":true,"_id":"pEl4doesOfpSe7CW"}
-{"$$deleted":true,"_id":"UMTqQnv1M1ODwqPH"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"L8SYU4M2By1HQB4A"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"9ta8amLsTDKVOUcR"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"lXeLVXUgMq014hoV"}
-{"$$deleted":true,"_id":"9ta8amLsTDKVOUcR"}
-{"$$deleted":true,"_id":"tBxBAiPEE1k4lrZX"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"wuYLU1J1OlVzSJz7"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"nllJlkSrUpGIu2ga"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"dmcv4heXc81LwNoH"}
-{"$$deleted":true,"_id":"Y9g89M5xkJpJgHHd"}
-{"$$deleted":true,"_id":"VypkES7pQj01V6FH"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"g9ImQYbYRAPchZM3"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"wuYLU1J1OlVzSJz7"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"g9ImQYbYRAPchZM3"}
-{"$$deleted":true,"_id":"d5hCZnlm24NKTRzy"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"DFJNbmHE9lY2StiU"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"g9ImQYbYRAPchZM3"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"wuYLU1J1OlVzSJz7"}
-{"$$deleted":true,"_id":"lXeLVXUgMq014hoV"}
-{"$$deleted":true,"_id":"wuYLU1J1OlVzSJz7"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"XiXTIhefWh1827mv"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"g9ImQYbYRAPchZM3"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"g9ImQYbYRAPchZM3"}
-{"$$deleted":true,"_id":"dmcv4heXc81LwNoH"}
-{"$$deleted":true,"_id":"DFJNbmHE9lY2StiU"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"HlsoQbMAxHnX0Ndj"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Cwe413iQwv6u0ev5"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"g9ImQYbYRAPchZM3"}
-{"$$deleted":true,"_id":"qb2MUEVtACzAj5av"}
-{"$$deleted":true,"_id":"Cwe413iQwv6u0ev5"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"e6jMfNgQXU07GM3I"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"HlsoQbMAxHnX0Ndj"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"nllJlkSrUpGIu2ga"}
-{"$$deleted":true,"_id":"HlsoQbMAxHnX0Ndj"}
-{"$$deleted":true,"_id":"e6jMfNgQXU07GM3I"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"H0rlk63nF1oEwrFk"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"L8SYU4M2By1HQB4A"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"L8SYU4M2By1HQB4A"}
-{"$$deleted":true,"_id":"g9ImQYbYRAPchZM3"}
-{"$$deleted":true,"_id":"L8SYU4M2By1HQB4A"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"A949KJwuFf12rSh1"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"H0rlk63nF1oEwrFk"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"nllJlkSrUpGIu2ga"}
-{"$$deleted":true,"_id":"XiXTIhefWh1827mv"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"SOUuiSP4FK7EQKbP"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"nllJlkSrUpGIu2ga"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"nllJlkSrUpGIu2ga"}
-{"$$deleted":true,"_id":"nllJlkSrUpGIu2ga"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"QeIABRUSQEqJAgj4"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"H0rlk63nF1oEwrFk"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"SOUuiSP4FK7EQKbP"}
-{"$$deleted":true,"_id":"H0rlk63nF1oEwrFk"}
-{"$$deleted":true,"_id":"QeIABRUSQEqJAgj4"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"etUZIhX8MvlzE6e9"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"SOUuiSP4FK7EQKbP"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"etUZIhX8MvlzE6e9"}
-{"$$deleted":true,"_id":"SOUuiSP4FK7EQKbP"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"8A6oLaqEuukGV12Y"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"8A6oLaqEuukGV12Y"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"etUZIhX8MvlzE6e9"}
-{"$$deleted":true,"_id":"8A6oLaqEuukGV12Y"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"gY3I6bqDRaqPPs4Q"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"A949KJwuFf12rSh1"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"A949KJwuFf12rSh1"}
-{"$$deleted":true,"_id":"gY3I6bqDRaqPPs4Q"}
-{"$$deleted":true,"_id":"A949KJwuFf12rSh1"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"2taTJEitheqqxEBo"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"2taTJEitheqqxEBo"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"2taTJEitheqqxEBo"}
-{"$$deleted":true,"_id":"etUZIhX8MvlzE6e9"}
-{"$$deleted":true,"_id":"2taTJEitheqqxEBo"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"SMVU0Dat8EodTI5K"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"SMVU0Dat8EodTI5K"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"SMVU0Dat8EodTI5K"}
-{"$$deleted":true,"_id":"SMVU0Dat8EodTI5K"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"riEe6iSMpPAxNGF3"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"riEe6iSMpPAxNGF3"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"riEe6iSMpPAxNGF3"}
-{"$$deleted":true,"_id":"riEe6iSMpPAxNGF3"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"NsxbmfZmWhE2ULoJ"}
-{"$$deleted":true,"_id":"NsxbmfZmWhE2ULoJ"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"DAEiS2DuNlhn09J6"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"DAEiS2DuNlhn09J6"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"DAEiS2DuNlhn09J6"}
-{"$$deleted":true,"_id":"DAEiS2DuNlhn09J6"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"uGKqpWBBHdFtGoFE"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"uGKqpWBBHdFtGoFE"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"uGKqpWBBHdFtGoFE"}
-{"$$deleted":true,"_id":"uGKqpWBBHdFtGoFE"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"GtpPIsn5y0XWZwE3"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"GtpPIsn5y0XWZwE3"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"GtpPIsn5y0XWZwE3"}
-{"$$deleted":true,"_id":"GtpPIsn5y0XWZwE3"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"YxCL9fZ3e9t4NIC7"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"YxCL9fZ3e9t4NIC7"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"YxCL9fZ3e9t4NIC7"}
-{"$$deleted":true,"_id":"YxCL9fZ3e9t4NIC7"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"JFncjMae8Pzkg9IA"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"JFncjMae8Pzkg9IA"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"JFncjMae8Pzkg9IA"}
-{"$$deleted":true,"_id":"JFncjMae8Pzkg9IA"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"ybM74XS9Sfatp08G"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"ybM74XS9Sfatp08G"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"ybM74XS9Sfatp08G"}
-{"$$deleted":true,"_id":"ybM74XS9Sfatp08G"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"jggilhb4S94t25NW"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"jggilhb4S94t25NW"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"jggilhb4S94t25NW"}
-{"$$deleted":true,"_id":"jggilhb4S94t25NW"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"pfdrDjOu1q14jRl3"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"pfdrDjOu1q14jRl3"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"pfdrDjOu1q14jRl3"}
-{"$$deleted":true,"_id":"pfdrDjOu1q14jRl3"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"zvjeABGx1I83toNj"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"zvjeABGx1I83toNj"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"zvjeABGx1I83toNj"}
-{"$$deleted":true,"_id":"zvjeABGx1I83toNj"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"Lb4YAoPc9xKSbr6x"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Lb4YAoPc9xKSbr6x"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Lb4YAoPc9xKSbr6x"}
-{"$$deleted":true,"_id":"Lb4YAoPc9xKSbr6x"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"y1uM5dksnP7b50S7"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"y1uM5dksnP7b50S7"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"y1uM5dksnP7b50S7"}
-{"$$deleted":true,"_id":"y1uM5dksnP7b50S7"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"Cxb3aLrzeNrHFqTK"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Cxb3aLrzeNrHFqTK"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Cxb3aLrzeNrHFqTK"}
-{"$$deleted":true,"_id":"Cxb3aLrzeNrHFqTK"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"d5MmTJK5Jv3HZbz1"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"d5MmTJK5Jv3HZbz1"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"d5MmTJK5Jv3HZbz1"}
-{"$$deleted":true,"_id":"d5MmTJK5Jv3HZbz1"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"PSQ9PbsRfbILVq2p"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"PSQ9PbsRfbILVq2p"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"PSQ9PbsRfbILVq2p"}
-{"$$deleted":true,"_id":"PSQ9PbsRfbILVq2p"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"z6HX55fjlotHWPYu"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"z6HX55fjlotHWPYu"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"z6HX55fjlotHWPYu"}
-{"$$deleted":true,"_id":"z6HX55fjlotHWPYu"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"rqz2wr3hmBY5mCES"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"rqz2wr3hmBY5mCES"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"rqz2wr3hmBY5mCES"}
-{"$$deleted":true,"_id":"rqz2wr3hmBY5mCES"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"147LKMV45D7Moxdf"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"147LKMV45D7Moxdf"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"147LKMV45D7Moxdf"}
-{"$$deleted":true,"_id":"147LKMV45D7Moxdf"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"on2aQHMbs0xQRPa6"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"on2aQHMbs0xQRPa6"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"on2aQHMbs0xQRPa6"}
-{"$$deleted":true,"_id":"on2aQHMbs0xQRPa6"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"16NKdQaDUxWvVgde"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"16NKdQaDUxWvVgde"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"16NKdQaDUxWvVgde"}
-{"$$deleted":true,"_id":"16NKdQaDUxWvVgde"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"Y2Hho2Q9KiILUZlg"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Y2Hho2Q9KiILUZlg"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Y2Hho2Q9KiILUZlg"}
-{"$$deleted":true,"_id":"Y2Hho2Q9KiILUZlg"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"411aYgol3b8CaJAM"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"411aYgol3b8CaJAM"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"411aYgol3b8CaJAM"}
-{"$$deleted":true,"_id":"411aYgol3b8CaJAM"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"IsfpFnBjdr5sZE9N"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"IsfpFnBjdr5sZE9N"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"IsfpFnBjdr5sZE9N"}
-{"title":"título","description":"descrição","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"EEfrJLL310U8p9HW"}
-{"title":"título","description":"descrição","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"373hZpYrLQ9Fi0Oy"}
-{"title":"título","description":"descrição","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"GGe86GX8SFqO37qX"}
-{"title":"título","description":"descrição","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"CanTh81Pl6SMSDDZ"}
-{"title":"título","description":"descrição","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"YZuWsN8aM0xBbUUB"}
-{"title":"","description":"","launchdate":"","showtimes":[""],"_id":"373hZpYrLQ9Fi0Oy"}
-{"title":"","description":"","launchdate":"","showtimes":[""],"_id":"373hZpYrLQ9Fi0Oy"}
-{"title":"","description":"","launchdate":"","showtimes":[""],"_id":"373hZpYrLQ9Fi0Oy"}
-{"title":"","description":"","launchdate":"","showtimes":[""],"_id":"373hZpYrLQ9Fi0Oy"}
-{"title":"","description":"","launchdate":"","showtimes":[""],"_id":"373hZpYrLQ9Fi0Oy"}
-{"$$deleted":true,"_id":"373hZpYrLQ9Fi0Oy"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"RiOacxhXgpPMW3QU"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"CanTh81Pl6SMSDDZ"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"EEfrJLL310U8p9HW"}
-{"$$deleted":true,"_id":"GGe86GX8SFqO37qX"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"ymaFg2Qt9B4VFK6c"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"CanTh81Pl6SMSDDZ"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"IsfpFnBjdr5sZE9N"}
-{"$$deleted":true,"_id":"RiOacxhXgpPMW3QU"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"A7iPNFCjVEI3S1yZ"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"YZuWsN8aM0xBbUUB"}
 {"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"A7iPNFCjVEI3S1yZ"}
-{"$$deleted":true,"_id":"YZuWsN8aM0xBbUUB"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"a83N70aUgBWMGmpE"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"a83N70aUgBWMGmpE"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"A7iPNFCjVEI3S1yZ"}
-{"$$deleted":true,"_id":"EEfrJLL310U8p9HW"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"IFT83sbEtUJ7hTZO"}
 {"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"CanTh81Pl6SMSDDZ"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"IFT83sbEtUJ7hTZO"}
-{"$$deleted":true,"_id":"ymaFg2Qt9B4VFK6c"}
 {"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"GR5lyZ6099x27Dtp"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"CanTh81Pl6SMSDDZ"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"A7iPNFCjVEI3S1yZ"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"IFT83sbEtUJ7hTZO"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"IsfpFnBjdr5sZE9N"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"a83N70aUgBWMGmpE"}
+{"$$deleted":true,"_id":"a83N70aUgBWMGmpE"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"3eegpOoPmUt0xJkp"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"GR5lyZ6099x27Dtp"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"IsfpFnBjdr5sZE9N"}
+{"$$deleted":true,"_id":"GR5lyZ6099x27Dtp"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"NrFSVeHJ5QHPw2jT"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"IFT83sbEtUJ7hTZO"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"3eegpOoPmUt0xJkp"}
+{"$$deleted":true,"_id":"IsfpFnBjdr5sZE9N"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"yX4zyaqirVdY7R7w"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"NrFSVeHJ5QHPw2jT"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"CanTh81Pl6SMSDDZ"}
+{"$$deleted":true,"_id":"yX4zyaqirVdY7R7w"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"4xhGNDPLF41YfAHy"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"NrFSVeHJ5QHPw2jT"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"NrFSVeHJ5QHPw2jT"}
+{"title":"título","description":"descrição","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"93a0Naxxm5WfPCtK"}
+{"$$deleted":true,"_id":"3eegpOoPmUt0xJkp"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"mthDbUxV8KcovtCY"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"NrFSVeHJ5QHPw2jT"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"CanTh81Pl6SMSDDZ"}
+{"$$deleted":true,"_id":"A7iPNFCjVEI3S1yZ"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"AbxA4e2fEDWu8Tap"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"4xhGNDPLF41YfAHy"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"4xhGNDPLF41YfAHy"}
+{"$$deleted":true,"_id":"93a0Naxxm5WfPCtK"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"EAIDYW5c7Qjxu79r"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"mthDbUxV8KcovtCY"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"mthDbUxV8KcovtCY"}
+{"title":"Teste Filme Atualizado","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"AbxA4e2fEDWu8Tap"}
+{"$$deleted":true,"_id":"AbxA4e2fEDWu8Tap"}
+{"$$deleted":true,"_id":"CanTh81Pl6SMSDDZ"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"ENRcrI78qLZKB1ZA"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"NrFSVeHJ5QHPw2jT"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"NrFSVeHJ5QHPw2jT"}
+{"$$deleted":true,"_id":"EAIDYW5c7Qjxu79r"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"Npy5w5ebdOObLsIf"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"NrFSVeHJ5QHPw2jT"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Npy5w5ebdOObLsIf"}
+{"$$deleted":true,"_id":"NrFSVeHJ5QHPw2jT"}
+{"$$deleted":true,"_id":"IFT83sbEtUJ7hTZO"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"gXakZuF3FIBCTEaz"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"mthDbUxV8KcovtCY"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"4xhGNDPLF41YfAHy"}
+{"$$deleted":true,"_id":"mthDbUxV8KcovtCY"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"ENRcrI78qLZKB1ZA"}
+{"$$deleted":true,"_id":"4xhGNDPLF41YfAHy"}
+{"title":"Teste Filme Atualizado","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"gXakZuF3FIBCTEaz"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"pIeq6PU2qOpcEomw"}
+{"$$deleted":true,"_id":"gXakZuF3FIBCTEaz"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"ENRcrI78qLZKB1ZA"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Npy5w5ebdOObLsIf"}
+{"$$deleted":true,"_id":"ENRcrI78qLZKB1ZA"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"SOFcacJRSf6GiURn"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"pIeq6PU2qOpcEomw"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Npy5w5ebdOObLsIf"}
+{"$$deleted":true,"_id":"SOFcacJRSf6GiURn"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"feS2Hq016u8Dbra6"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Npy5w5ebdOObLsIf"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"pIeq6PU2qOpcEomw"}
+{"$$deleted":true,"_id":"Npy5w5ebdOObLsIf"}
+{"title":"Teste Filme Atualizado","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"feS2Hq016u8Dbra6"}
+{"$$deleted":true,"_id":"feS2Hq016u8Dbra6"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"7HjUjyOEa4D4Sq9k"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"pIeq6PU2qOpcEomw"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"pIeq6PU2qOpcEomw"}
+{"title":"título","description":"descrição","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"ZvHlTylpfu3xGy19"}
+{"$$deleted":true,"_id":"ZvHlTylpfu3xGy19"}
+{"title":"Teste Filme Atualizado","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"7HjUjyOEa4D4Sq9k"}
+{"$$deleted":true,"_id":"7HjUjyOEa4D4Sq9k"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"cJ8Uwb3DVupEMh37"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"cJ8Uwb3DVupEMh37"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"pIeq6PU2qOpcEomw"}
+{"$$deleted":true,"_id":"cJ8Uwb3DVupEMh37"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"pIeq6PU2qOpcEomw"}
+{"$$deleted":true,"_id":"pIeq6PU2qOpcEomw"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"3sMWtS1vtLaIwGQq"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"3sMWtS1vtLaIwGQq"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"3sMWtS1vtLaIwGQq"}
+{"title":"título","description":"descrição","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"xxXaW3g7QozpE3xc"}
+{"title":"Filme Teste 1 - 1733111929374","description":"Descrição do filme de teste número 1","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"TsIYSYJJZL3jY03y"}
+{"$$deleted":true,"_id":"3sMWtS1vtLaIwGQq"}
+{"title":"Teste Filme Atualizado","description":"descrição","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"xxXaW3g7QozpE3xc"}
+{"$$deleted":true,"_id":"xxXaW3g7QozpE3xc"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"Obr15fi74VIgf2RV"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"TsIYSYJJZL3jY03y"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Obr15fi74VIgf2RV"}
+{"title":"Filme Teste 1 - 1733111990542","description":"Descrição do filme de teste número 1","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"XvKAvhXe1s46Xkzk"}
+{"title":"Filme Teste 2 - 1733111990568","description":"Descrição do filme de teste número 2","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"OX9ssT1FJjFYQnti"}
+{"title":"Filme Teste 3 - 1733111990573","description":"Descrição do filme de teste número 3","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"Ot0Pjb4mbYdNaiTl"}
+{"title":"Filme Teste 4 - 1733111990578","description":"Descrição do filme de teste número 4","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"7BxCkRtfPcSoLlXc"}
+{"title":"Filme Teste 5 - 1733111990582","description":"Descrição do filme de teste número 5","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"S2qltgX8iFWuRl4W"}
+{"title":"Filme Teste 6 - 1733111990587","description":"Descrição do filme de teste número 6","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"VdDPeUw2vioKh9IB"}
+{"title":"Filme Teste 7 - 1733111990591","description":"Descrição do filme de teste número 7","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"coFUN7VJXnT5RC3I"}
+{"title":"Filme Teste 8 - 1733111990595","description":"Descrição do filme de teste número 8","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"tVDr1ZrA21EjZLDS"}
+{"title":"Filme Teste 9 - 1733111990600","description":"Descrição do filme de teste número 9","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"aH4wbu7CG6NwMvR4"}
+{"title":"Filme Teste 10 - 1733111990605","description":"Descrição do filme de teste número 10","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"VU8jzfvzgQQXBrH1"}
+{"title":"Filme Teste 11 - 1733111990609","description":"Descrição do filme de teste número 11","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ecbR5z4WyDjLETbn"}
+{"title":"Filme Teste 12 - 1733111990614","description":"Descrição do filme de teste número 12","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"pjp47kIBu8SZW4lT"}
+{"title":"Filme Teste 13 - 1733111990618","description":"Descrição do filme de teste número 13","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"61q6ad2k9XWUfkSE"}
+{"title":"Filme Teste 14 - 1733111990623","description":"Descrição do filme de teste número 14","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"mhcmYkHzmDZzHpl9"}
+{"title":"Filme Teste 15 - 1733111990628","description":"Descrição do filme de teste número 15","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ygqCjeD21uIjwAvY"}
+{"$$deleted":true,"_id":"XvKAvhXe1s46Xkzk"}
+{"title":"Filme Teste 16 - 1733111990635","description":"Descrição do filme de teste número 16","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"9YThxMyiZNizah5Z"}
+{"title":"Filme Teste 17 - 1733111990639","description":"Descrição do filme de teste número 17","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"UxhoAH0FvOy29Y6o"}
+{"title":"Filme Teste 18 - 1733111990643","description":"Descrição do filme de teste número 18","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"pStWp8P393i8oUj2"}
+{"title":"Filme Teste 19 - 1733111990648","description":"Descrição do filme de teste número 19","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"BitWHXbkd4BZ6hIM"}
+{"title":"Filme Teste 20 - 1733111990653","description":"Descrição do filme de teste número 20","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"K7Di7e6g2lRuTAKH"}
+{"title":"Filme Teste 21 - 1733111990657","description":"Descrição do filme de teste número 21","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"R2mWlCbw3IQF9rzC"}
+{"title":"Filme Teste 22 - 1733111990661","description":"Descrição do filme de teste número 22","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"VKXKaMMIO42yqy9Q"}
+{"title":"Filme Teste 23 - 1733111990665","description":"Descrição do filme de teste número 23","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"k7CFphTgZDlIo8GY"}
+{"title":"Filme Teste 24 - 1733111990671","description":"Descrição do filme de teste número 24","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"3EB44nnGqQA7jsAp"}
+{"title":"Filme Teste 25 - 1733111990677","description":"Descrição do filme de teste número 25","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"08F69FDaVt6aN655"}
+{"title":"Filme Teste 26 - 1733111990680","description":"Descrição do filme de teste número 26","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"AQLYPlI6uEWdt2gE"}
+{"title":"Filme Teste 27 - 1733111990684","description":"Descrição do filme de teste número 27","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"yBsoPadSzjeF9L5v"}
+{"title":"Filme Teste 28 - 1733111990688","description":"Descrição do filme de teste número 28","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"t7yh9ao3GEpb9jbF"}
+{"title":"Filme Teste 29 - 1733111990692","description":"Descrição do filme de teste número 29","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"3IP62cHDT5S7Yni2"}
+{"title":"Filme Teste 30 - 1733111990697","description":"Descrição do filme de teste número 30","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"3Wym6vqQhZSRCHZe"}
+{"title":"Filme Teste 31 - 1733111990700","description":"Descrição do filme de teste número 31","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"mTx70PHvkxmDhF5z"}
+{"title":"Filme Teste 32 - 1733111990705","description":"Descrição do filme de teste número 32","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"kNVuARNDiXkwY9cA"}
+{"title":"Filme Teste 33 - 1733111990709","description":"Descrição do filme de teste número 33","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"mdqIx8hM2fQbokj0"}
+{"title":"Filme Teste 34 - 1733111990715","description":"Descrição do filme de teste número 34","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"eHBdA59Zf7DIrayb"}
+{"title":"Filme Teste 35 - 1733111990722","description":"Descrição do filme de teste número 35","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"1R8rIHMcKc24FWc0"}
+{"title":"Filme Teste 36 - 1733111990726","description":"Descrição do filme de teste número 36","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"wCwHmQFRpj3C9QS7"}
+{"title":"Filme Teste 37 - 1733111990731","description":"Descrição do filme de teste número 37","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"N8rwJRc11g1CW0W8"}
+{"title":"Filme Teste 38 - 1733111990737","description":"Descrição do filme de teste número 38","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"AxdLfOssSKMeampK"}
+{"title":"Filme Teste 39 - 1733111990742","description":"Descrição do filme de teste número 39","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"dc7Q18fweXTBoVDt"}
+{"title":"Filme Teste 40 - 1733111990747","description":"Descrição do filme de teste número 40","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"H2Uhj14Imt8tugHr"}
+{"title":"Filme Teste 41 - 1733111990750","description":"Descrição do filme de teste número 41","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"bA4lq6NwTiaWK7Yq"}
+{"title":"Filme Teste 42 - 1733111990754","description":"Descrição do filme de teste número 42","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ebuYIutqJRl3Dnxr"}
+{"title":"Filme Teste 43 - 1733111990762","description":"Descrição do filme de teste número 43","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"iq7kRunkAQdbBcbN"}
+{"title":"Filme Teste 44 - 1733111990770","description":"Descrição do filme de teste número 44","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"2whFvM1mVu69Yp9A"}
+{"title":"Filme Teste 45 - 1733111990774","description":"Descrição do filme de teste número 45","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"MiPFaugD0wStwhon"}
+{"title":"Filme Teste 46 - 1733111990778","description":"Descrição do filme de teste número 46","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"GDCQ73QN3sjjKX69"}
+{"title":"Filme Teste 47 - 1733111990783","description":"Descrição do filme de teste número 47","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"MIT3z0ehJKlcX49r"}
+{"title":"Filme Teste 48 - 1733111990786","description":"Descrição do filme de teste número 48","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"1tRHg771DhJVX3OT"}
+{"title":"Filme Teste 49 - 1733111990790","description":"Descrição do filme de teste número 49","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"G4yWprPJL5XTfXib"}
+{"title":"Filme Teste 50 - 1733111990793","description":"Descrição do filme de teste número 50","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"utJwc5jCn3zn8TSt"}
+{"title":"Filme Teste 51 - 1733111990797","description":"Descrição do filme de teste número 51","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"C0crGcaW63iiLKpq"}
+{"title":"Filme Teste 52 - 1733111990802","description":"Descrição do filme de teste número 52","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ZhQhuNAyAGKpkBix"}
+{"title":"Filme Teste 53 - 1733111990806","description":"Descrição do filme de teste número 53","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"Kwj1yN3MBEe9LUk8"}
+{"title":"Filme Teste 54 - 1733111990810","description":"Descrição do filme de teste número 54","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"cTHGCyUlZdhiaxUo"}
+{"title":"Filme Teste 55 - 1733111990814","description":"Descrição do filme de teste número 55","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"nVGeMBnMt2Wz2RlB"}
+{"title":"Filme Teste 56 - 1733111990818","description":"Descrição do filme de teste número 56","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"pNRCzMNuv5xw0TRV"}
+{"title":"Filme Teste 57 - 1733111990822","description":"Descrição do filme de teste número 57","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"jrxwf1p1mmswmEWe"}
+{"title":"Filme Teste 58 - 1733111990826","description":"Descrição do filme de teste número 58","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ZvzMl9WXi4PKtVpw"}
+{"title":"Filme Teste 59 - 1733111990830","description":"Descrição do filme de teste número 59","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"RRpSoQ9LmnNY5DX4"}
+{"title":"Filme Teste 60 - 1733111990834","description":"Descrição do filme de teste número 60","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ICutuO7FBi0UnXwH"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"AQLYPlI6uEWdt2gE"}
+{"title":"Filme Teste 61 - 1733111990841","description":"Descrição do filme de teste número 61","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"IcW2RmwWEi2Zzaha"}
+{"title":"Filme Teste 62 - 1733111990845","description":"Descrição do filme de teste número 62","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"EMgd1rKX9IckadGJ"}
+{"title":"Filme Teste 63 - 1733111990849","description":"Descrição do filme de teste número 63","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"lw0E7tkKzW9FZX9c"}
+{"title":"Filme Teste 64 - 1733111990853","description":"Descrição do filme de teste número 64","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"yOUcvgaUtoUzLCcx"}
+{"title":"Filme Teste 65 - 1733111990856","description":"Descrição do filme de teste número 65","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"5qy5TsEzejPKeORz"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"3Wym6vqQhZSRCHZe"}
+{"title":"Filme Teste 66 - 1733111990859","description":"Descrição do filme de teste número 66","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"cDCnv3Q4QzJesYzW"}
+{"title":"Filme Teste 67 - 1733111990863","description":"Descrição do filme de teste número 67","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"stLnrsZl6K5CtRhp"}
+{"title":"Filme Teste 68 - 1733111990866","description":"Descrição do filme de teste número 68","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"TnNL9lZofAOOzLMM"}
+{"title":"Filme Teste 69 - 1733111990869","description":"Descrição do filme de teste número 69","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"1WUhrGLiAhN6zMWZ"}
+{"title":"Filme Teste 70 - 1733111990872","description":"Descrição do filme de teste número 70","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"NTAXBRfJdqybeDJl"}
+{"title":"Filme Teste 71 - 1733111990875","description":"Descrição do filme de teste número 71","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"eF8whUjor02YztRQ"}
+{"title":"Filme Teste 72 - 1733111990879","description":"Descrição do filme de teste número 72","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"Qb8WaehPPzrauyHQ"}
+{"title":"Filme Teste 73 - 1733111990883","description":"Descrição do filme de teste número 73","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"2fZADWpysDB7cSWx"}
+{"title":"Filme Teste 74 - 1733111990885","description":"Descrição do filme de teste número 74","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ynyNydyT9rbmJLdz"}
+{"title":"Filme Teste 75 - 1733111990889","description":"Descrição do filme de teste número 75","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"pNdyyJRnG8CVVrfz"}
+{"title":"Filme Teste 76 - 1733111990893","description":"Descrição do filme de teste número 76","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"4D7YZLwGKDFpLIgL"}
+{"title":"Filme Teste 77 - 1733111990900","description":"Descrição do filme de teste número 77","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"XW1nv947aIvTaH8x"}
+{"title":"Filme Teste 78 - 1733111990903","description":"Descrição do filme de teste número 78","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"IF8aYyK2KEObD13j"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 9","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"aH4wbu7CG6NwMvR4"}
+{"title":"Filme Teste 79 - 1733111990906","description":"Descrição do filme de teste número 79","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"JjqyPQFeYhpRBkFl"}
+{"title":"Filme Teste 80 - 1733111990909","description":"Descrição do filme de teste número 80","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"7aemvWnTjZ3sm1aF"}
+{"title":"Filme Teste 81 - 1733111990912","description":"Descrição do filme de teste número 81","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"dWNCWFg67ivCsOnV"}
+{"title":"Filme Teste 82 - 1733111990915","description":"Descrição do filme de teste número 82","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"iHAEcYl0tQhzjhDQ"}
+{"title":"Filme Teste 83 - 1733111990918","description":"Descrição do filme de teste número 83","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"WFH8S93jU1HLMnaO"}
+{"title":"Filme Teste 84 - 1733111990922","description":"Descrição do filme de teste número 84","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"1m6gCyHTFzRxCc96"}
+{"$$deleted":true,"_id":"aH4wbu7CG6NwMvR4"}
+{"title":"Filme Teste 85 - 1733111990925","description":"Descrição do filme de teste número 85","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"cBIt4GuSgLeUEV2m"}
+{"title":"Filme Teste 86 - 1733111990928","description":"Descrição do filme de teste número 86","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"h4BdtbLh68CcfGx4"}
+{"title":"Filme Teste 87 - 1733111990930","description":"Descrição do filme de teste número 87","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"YxNJQHyFnJCTj6Oa"}
+{"title":"Filme Teste 88 - 1733111990933","description":"Descrição do filme de teste número 88","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"57KPjrwSRwXMCDeI"}
+{"title":"Filme Teste 89 - 1733111990936","description":"Descrição do filme de teste número 89","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ZSbkCvhyNE2EYIbo"}
+{"title":"Filme Teste 90 - 1733111990939","description":"Descrição do filme de teste número 90","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"emYDNxzDCBjz02GU"}
+{"title":"Filme Teste 91 - 1733111990942","description":"Descrição do filme de teste número 91","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"dcqpWM7lJo9ZBWAM"}
+{"title":"Filme Teste 92 - 1733111990948","description":"Descrição do filme de teste número 92","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"OWMStADFYK1p1GPC"}
+{"title":"Filme Teste 93 - 1733111990952","description":"Descrição do filme de teste número 93","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"Wj2leJ2Kg4iRMEn4"}
+{"title":"Filme Teste 94 - 1733111990956","description":"Descrição do filme de teste número 94","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"q15wRhG2QPB50YEJ"}
+{"title":"Filme Teste 95 - 1733111990959","description":"Descrição do filme de teste número 95","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"5bx1THRY64Kfh9Ka"}
+{"title":"Filme Teste 96 - 1733111990962","description":"Descrição do filme de teste número 96","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"BMSngsAmA0PXJrHz"}
+{"title":"Filme Teste 97 - 1733111990964","description":"Descrição do filme de teste número 97","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"p9vW2osLbqS5osmK"}
+{"title":"Filme Teste 98 - 1733111990967","description":"Descrição do filme de teste número 98","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"vpWF8VEFJ34pFQPD"}
+{"title":"Filme Teste 99 - 1733111990970","description":"Descrição do filme de teste número 99","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"DaSvhFL7AbntPHfX"}
+{"title":"Filme Teste 100 - 1733111990974","description":"Descrição do filme de teste número 100","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ltyR048WGoFJ3E0G"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"uBuCFETYLlXaSb3e"}
+{"title":"Filme Teste 1 - 1733112059439","description":"Descrição do filme de teste número 1","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"VQrTP6g9dBh9EhMN"}
+{"title":"Filme Teste 2 - 1733112059461","description":"Descrição do filme de teste número 2","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"e6XitazrFbfM8jV2"}
+{"$$deleted":true,"_id":"yBsoPadSzjeF9L5v"}
+{"title":"Filme Teste 3 - 1733112059465","description":"Descrição do filme de teste número 3","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"LgXh1Ay0zdBc4EMy"}
+{"title":"Filme Teste 4 - 1733112059470","description":"Descrição do filme de teste número 4","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ho0dqkbSQhB5WFyT"}
+{"title":"Filme Teste 5 - 1733112059474","description":"Descrição do filme de teste número 5","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"2tedJxHXVlptsZFI"}
+{"title":"Filme Teste 6 - 1733112059479","description":"Descrição do filme de teste número 6","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"HmrKlHKVeF1Ebpi0"}
+{"title":"Filme Teste 7 - 1733112059482","description":"Descrição do filme de teste número 7","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"pMnS8AY5upcagb1B"}
+{"title":"Filme Teste 8 - 1733112059486","description":"Descrição do filme de teste número 8","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"RdRubmpzkhHK5BpB"}
+{"title":"Filme Teste 9 - 1733112059493","description":"Descrição do filme de teste número 9","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"dDdduMZGeFtYCp2X"}
+{"title":"Filme Teste 10 - 1733112059498","description":"Descrição do filme de teste número 10","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"Tgq19RCawge4k12X"}
+{"title":"Filme Teste 11 - 1733112059505","description":"Descrição do filme de teste número 11","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"JBAiNIImVEb9qTss"}
+{"title":"Filme Teste 12 - 1733112059510","description":"Descrição do filme de teste número 12","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"M1cqGbL25EX4BGMM"}
+{"title":"Filme Teste 13 - 1733112059515","description":"Descrição do filme de teste número 13","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"6Kujj5dEXjD5S1nP"}
+{"title":"Filme Teste 14 - 1733112059522","description":"Descrição do filme de teste número 14","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"eoIiUvELSHAK3CLj"}
+{"title":"Filme Teste 15 - 1733112059527","description":"Descrição do filme de teste número 15","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"xFEbWHDHxtjxqOlN"}
+{"title":"Filme Teste 16 - 1733112059536","description":"Descrição do filme de teste número 16","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"phiKRT51inivv6M8"}
+{"title":"Filme Teste 17 - 1733112059540","description":"Descrição do filme de teste número 17","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"OLgzKTHmvuTHjHBn"}
+{"title":"Filme Teste 18 - 1733112059546","description":"Descrição do filme de teste número 18","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"hZIVjIeu2GwtvVqE"}
+{"title":"Filme Teste 19 - 1733112059549","description":"Descrição do filme de teste número 19","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"oTJKVkXAdotwXF1W"}
+{"title":"Filme Teste 20 - 1733112059554","description":"Descrição do filme de teste número 20","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"pCpaVoE0oCnYtZNS"}
+{"title":"Filme Teste 21 - 1733112059558","description":"Descrição do filme de teste número 21","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"5ZxUVuZbsNg4Iwej"}
+{"title":"Filme Teste 22 - 1733112059562","description":"Descrição do filme de teste número 22","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"cIDREu5wlrGkoECb"}
+{"title":"Filme Teste 23 - 1733112059566","description":"Descrição do filme de teste número 23","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"qVZ3xqVHuN4HqgUw"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"oQAcmyHhWhptTjXU"}
+{"title":"Filme Teste 24 - 1733112059573","description":"Descrição do filme de teste número 24","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"AsN8D5aeM0ssTVI3"}
+{"title":"Filme Teste 25 - 1733112059577","description":"Descrição do filme de teste número 25","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"VFwSKTkfsly1ny1p"}
+{"title":"Filme Teste 26 - 1733112059582","description":"Descrição do filme de teste número 26","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"9yg1soImVTccC6fA"}
+{"title":"Filme Teste 27 - 1733112059586","description":"Descrição do filme de teste número 27","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"h5JBaYi738TWQCqA"}
+{"title":"Filme Teste 28 - 1733112059590","description":"Descrição do filme de teste número 28","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"fcISBt1N0Fm2PYC3"}
+{"title":"Filme Teste 29 - 1733112059595","description":"Descrição do filme de teste número 29","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"iwpvmGlrjd6g2XxZ"}
+{"title":"Filme Teste 30 - 1733112059606","description":"Descrição do filme de teste número 30","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"2qWgnj8xUupiBSpA"}
+{"title":"Filme Teste 31 - 1733112059611","description":"Descrição do filme de teste número 31","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"shyydNnOQPYwjVBu"}
+{"title":"Filme Teste 32 - 1733112059615","description":"Descrição do filme de teste número 32","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"BeToweq4MplyXRcp"}
+{"title":"Filme Teste 33 - 1733112059622","description":"Descrição do filme de teste número 33","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"hCeOgvSyvZB7KV6o"}
+{"title":"Filme Teste 34 - 1733112059626","description":"Descrição do filme de teste número 34","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"lpL3F4F6A6gIfmx0"}
+{"title":"Filme Teste 35 - 1733112059631","description":"Descrição do filme de teste número 35","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"eB4CImwBnem2KnJU"}
+{"title":"Filme Teste 36 - 1733112059635","description":"Descrição do filme de teste número 36","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"o5HeCv2N644S0Z55"}
+{"title":"Filme Teste 37 - 1733112059640","description":"Descrição do filme de teste número 37","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"LJ35Mzn30rEXpWBQ"}
+{"title":"Filme Teste 38 - 1733112059645","description":"Descrição do filme de teste número 38","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"qb7qCrUAdG0kb0Gx"}
+{"title":"Filme Teste 39 - 1733112059651","description":"Descrição do filme de teste número 39","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"7DM0COuCsDP8HhA2"}
+{"title":"Filme Teste 40 - 1733112059657","description":"Descrição do filme de teste número 40","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"AubDjUXif23sa7IJ"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"phiKRT51inivv6M8"}
+{"title":"Filme Teste 41 - 1733112059661","description":"Descrição do filme de teste número 41","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"7t7qgvdcvAQAYbAJ"}
+{"title":"Filme Teste 42 - 1733112059664","description":"Descrição do filme de teste número 42","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"eAfZaXm83blkBOSU"}
+{"title":"Filme Teste 43 - 1733112059670","description":"Descrição do filme de teste número 43","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"9WYfICso9TypSI9m"}
+{"title":"Filme Teste 44 - 1733112059674","description":"Descrição do filme de teste número 44","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"TiewQ1IizAokfMPr"}
+{"title":"Filme Teste 45 - 1733112059679","description":"Descrição do filme de teste número 45","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"KjGRk2ToPLfCla5D"}
+{"title":"Filme Teste 46 - 1733112059683","description":"Descrição do filme de teste número 46","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"4o6gEDxKxBPLpBav"}
+{"title":"Filme Teste 47 - 1733112059686","description":"Descrição do filme de teste número 47","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"Bjfas1Ha5GjThsIs"}
+{"title":"Filme Teste 48 - 1733112059690","description":"Descrição do filme de teste número 48","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"vyoSJGB1jUdzSZgo"}
+{"title":"Filme Teste 49 - 1733112059693","description":"Descrição do filme de teste número 49","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"dDbYauztGxnnokZA"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"eAfZaXm83blkBOSU"}
+{"title":"Filme Teste 50 - 1733112059697","description":"Descrição do filme de teste número 50","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"VUob5p1eC3OzooXi"}
+{"title":"Filme Teste 51 - 1733112059700","description":"Descrição do filme de teste número 51","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"1B6n2MSk3xmkpJs3"}
+{"title":"Filme Teste 52 - 1733112059704","description":"Descrição do filme de teste número 52","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"Rcp3Nrxl8veaZXYA"}
+{"title":"Filme Teste 53 - 1733112059708","description":"Descrição do filme de teste número 53","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"DODILidROQE3airK"}
+{"title":"Filme Teste 54 - 1733112059712","description":"Descrição do filme de teste número 54","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"AzhRa0P7RCA7I4ig"}
+{"title":"Filme Teste 55 - 1733112059716","description":"Descrição do filme de teste número 55","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"8FlL1HlxQQfq7ElM"}
+{"title":"Filme Teste 56 - 1733112059720","description":"Descrição do filme de teste número 56","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"iWmbZby8g9fahiyr"}
+{"title":"Filme Teste 57 - 1733112059724","description":"Descrição do filme de teste número 57","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"G2TZnvB1y5lR34QH"}
+{"title":"Filme Teste 58 - 1733112059728","description":"Descrição do filme de teste número 58","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"elEBGhyNVW9Fgksp"}
+{"title":"Filme Teste 59 - 1733112059732","description":"Descrição do filme de teste número 59","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"gOscpIsXt61jTMAM"}
+{"title":"Filme Teste 60 - 1733112059740","description":"Descrição do filme de teste número 60","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"08mqWMR01QXYB6Sy"}
+{"title":"Filme Teste 61 - 1733112059743","description":"Descrição do filme de teste número 61","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"PiEgOLQveU2VXWCs"}
+{"title":"Filme Teste 62 - 1733112059747","description":"Descrição do filme de teste número 62","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"Ir4Cj83YO5BPjfoQ"}
+{"title":"Filme Teste 63 - 1733112059751","description":"Descrição do filme de teste número 63","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"liEfQXIr4RvItryV"}
+{"title":"Filme Teste 64 - 1733112059756","description":"Descrição do filme de teste número 64","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"qhgIq6rtiaWorbU8"}
+{"title":"Filme Teste 65 - 1733112059761","description":"Descrição do filme de teste número 65","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"YkMhK2gvsZfAPsbX"}
+{"title":"Filme Teste 66 - 1733112059764","description":"Descrição do filme de teste número 66","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"cKR8TVjC2PnYUgWd"}
+{"title":"Filme Teste 67 - 1733112059769","description":"Descrição do filme de teste número 67","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"vBDRACFBKlmYdgyk"}
+{"title":"Filme Teste 68 - 1733112059773","description":"Descrição do filme de teste número 68","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"QO7CHXAU2TrVEQZr"}
+{"title":"Filme Teste 69 - 1733112059777","description":"Descrição do filme de teste número 69","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"OMHH1ObWbGTsYivF"}
+{"title":"Filme Teste 70 - 1733112059780","description":"Descrição do filme de teste número 70","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"MJaPbyPB8mYWa4ye"}
+{"title":"Filme Teste 71 - 1733112059783","description":"Descrição do filme de teste número 71","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"vkZXc7GfaD4aAZBZ"}
+{"title":"Filme Teste 72 - 1733112059786","description":"Descrição do filme de teste número 72","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"EUyB0YDKMJ2t3Noq"}
+{"title":"Filme Teste 73 - 1733112059789","description":"Descrição do filme de teste número 73","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"2YpsNBwKNuRSqOe4"}
+{"title":"Filme Teste 74 - 1733112059792","description":"Descrição do filme de teste número 74","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"dia5dIaZKtfIJMLz"}
+{"title":"Filme Teste 75 - 1733112059795","description":"Descrição do filme de teste número 75","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"8KRnD9pqkINYZ8il"}
+{"title":"Filme Teste 76 - 1733112059803","description":"Descrição do filme de teste número 76","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"AKRmlhhPTB7vkDv3"}
+{"title":"Filme Teste 77 - 1733112059806","description":"Descrição do filme de teste número 77","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"Dj1CJuyWrOU6rQQk"}
+{"title":"Filme Teste 78 - 1733112059810","description":"Descrição do filme de teste número 78","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"qMtuLAoZhT7zz6cl"}
+{"title":"Filme Teste 79 - 1733112059814","description":"Descrição do filme de teste número 79","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"xMf99re6oTsXkhhp"}
+{"title":"Filme Teste 80 - 1733112059817","description":"Descrição do filme de teste número 80","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"d6M89E1xfdmGSaPJ"}
+{"title":"Filme Teste 81 - 1733112059821","description":"Descrição do filme de teste número 81","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"umLChE0fTCWTnhit"}
+{"title":"Filme Teste 82 - 1733112059823","description":"Descrição do filme de teste número 82","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"3VGvqItheQtTJsKW"}
+{"title":"Filme Teste 83 - 1733112059827","description":"Descrição do filme de teste número 83","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"TYdi3bxabtvTIJGd"}
+{"title":"Filme Teste 84 - 1733112059830","description":"Descrição do filme de teste número 84","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"JoZWdt0RJNnTB9JS"}
+{"title":"Filme Teste 85 - 1733112059833","description":"Descrição do filme de teste número 85","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"P5z0u45HDLSxcJTX"}
+{"title":"Filme Teste 86 - 1733112059836","description":"Descrição do filme de teste número 86","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"vcALWoHTAUOlUZ5J"}
+{"title":"Filme Teste 87 - 1733112059841","description":"Descrição do filme de teste número 87","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"Y7ESjjt7f1DJRwUn"}
+{"title":"Filme Teste 88 - 1733112059844","description":"Descrição do filme de teste número 88","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"DSmTN8w0QB1YZmLy"}
+{"title":"Filme Teste 89 - 1733112059847","description":"Descrição do filme de teste número 89","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"9l19qaFpnTUF7omg"}
+{"title":"Filme Teste 90 - 1733112059850","description":"Descrição do filme de teste número 90","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"P4pBRUvTdPpbabZs"}
+{"title":"Filme Teste 91 - 1733112059853","description":"Descrição do filme de teste número 91","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ROt82aK3yYi3Ayqb"}
+{"title":"Filme Teste 92 - 1733112059856","description":"Descrição do filme de teste número 92","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"OE28C3WgAG5vw7XR"}
+{"title":"Filme Teste 93 - 1733112059862","description":"Descrição do filme de teste número 93","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"FPIyNyYBD1MA1ur1"}
+{"title":"Filme Teste 94 - 1733112059865","description":"Descrição do filme de teste número 94","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"cWJHOw8U7P5VXTMd"}
+{"title":"Filme Teste 95 - 1733112059867","description":"Descrição do filme de teste número 95","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"TDwVLhBQoWxUN5n9"}
+{"title":"Filme Teste 96 - 1733112059871","description":"Descrição do filme de teste número 96","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"33BzqW2vVuiFADuS"}
+{"title":"Filme Teste 97 - 1733112059874","description":"Descrição do filme de teste número 97","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"KgKCXRJPWJgPcUWP"}
+{"title":"Filme Teste 98 - 1733112059877","description":"Descrição do filme de teste número 98","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ZADIbttqAcmhfQoX"}
+{"title":"Filme Teste 99 - 1733112059880","description":"Descrição do filme de teste número 99","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"yEK1GlZL1ck5FbKd"}
+{"title":"Filme Teste 100 - 1733112059882","description":"Descrição do filme de teste número 100","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"SXxicvGU8nWlTXJf"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 17","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"UxhoAH0FvOy29Y6o"}
+{"$$deleted":true,"_id":"UxhoAH0FvOy29Y6o"}
+{"$$deleted":true,"_id":"ho0dqkbSQhB5WFyT"}
+{"title":"Filme Teste 1 - 1733112119933","description":"Descrição do filme de teste número 1","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"SlJSp1x1tEZq7fGz"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"nRqJSNqcGiYxAcGK"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"GDCQ73QN3sjjKX69"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"liEfQXIr4RvItryV"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 34","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"eHBdA59Zf7DIrayb"}
+{"$$deleted":true,"_id":"eHBdA59Zf7DIrayb"}
+{"title":"Filme Teste 1 - 1733112141765","description":"Descrição do filme de teste número 1","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"JsBx8KACNO2RMpyT"}
+{"$$deleted":true,"_id":"3VGvqItheQtTJsKW"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"OEz7jA6lMIbV6O8u"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"OLgzKTHmvuTHjHBn"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"liEfQXIr4RvItryV"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 75","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"8KRnD9pqkINYZ8il"}
+{"$$deleted":true,"_id":"8KRnD9pqkINYZ8il"}
+{"title":"Filme Teste 1 - 1733112159771","description":"Descrição do filme de teste número 1","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"a9rh5DADNLQW8cPl"}
+{"$$deleted":true,"_id":"a9rh5DADNLQW8cPl"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"drBzFCtdhcnnLGcf"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"7aemvWnTjZ3sm1aF"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"7BxCkRtfPcSoLlXc"}
+{"title":"Teste Filme Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"7aemvWnTjZ3sm1aF"}
+{"$$deleted":true,"_id":"7aemvWnTjZ3sm1aF"}
+{"$$deleted":true,"_id":"ZSbkCvhyNE2EYIbo"}
+{"title":"Filme Teste 1 - 1733112184159","description":"Descrição do filme de teste número 1","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"oyUpdimfycXBJoPT"}
+{"title":"Filme Teste 2 - 1733112184215","description":"Descrição do filme de teste número 2","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"X9RwxxsHfCkKJksV"}
+{"title":"Filme Teste 3 - 1733112184227","description":"Descrição do filme de teste número 3","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"Qwl0EQBPdv9YbVvE"}
+{"title":"Filme Teste 4 - 1733112184245","description":"Descrição do filme de teste número 4","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"eBSzVeh7aQjf7aEv"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"NB7Nm1FjqNxfV1I7"}
+{"title":"Filme Teste 5 - 1733112184257","description":"Descrição do filme de teste número 5","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"U5iMf8mqoUUKjz3y"}
+{"title":"Filme Teste 6 - 1733112184273","description":"Descrição do filme de teste número 6","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"4RiVA1xgeKoQeJkg"}
+{"title":"Filme Teste 7 - 1733112184294","description":"Descrição do filme de teste número 7","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"hKt8ddJE9lfhCthM"}
+{"title":"Filme Teste 8 - 1733112184307","description":"Descrição do filme de teste número 8","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"alBOmDbqfqUYBwML"}
+{"title":"Filme Teste 9 - 1733112184317","description":"Descrição do filme de teste número 9","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"GFKCccZl6ojJEskv"}
+{"title":"Filme Teste 10 - 1733112184331","description":"Descrição do filme de teste número 10","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"JXqzIJKuzniiVP5D"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"R2mWlCbw3IQF9rzC"}
+{"title":"Filme Teste 11 - 1733112184342","description":"Descrição do filme de teste número 11","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"d5IzeUbnb5OFHsYp"}
+{"title":"Filme Teste 12 - 1733112184354","description":"Descrição do filme de teste número 12","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"oxLsUCMahHe6jzDp"}
+{"title":"Filme Teste 13 - 1733112184367","description":"Descrição do filme de teste número 13","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"AUWWe8VBiLLbLnGG"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"alBOmDbqfqUYBwML"}
+{"title":"Filme Teste 14 - 1733112184385","description":"Descrição do filme de teste número 14","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"4IxItm6Azefj3tKx"}
+{"title":"Filme Teste 15 - 1733112184395","description":"Descrição do filme de teste número 15","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"Lni8ZLRwB8HzBNn7"}
+{"title":"Filme Teste 16 - 1733112184408","description":"Descrição do filme de teste número 16","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"r8LjwYQP4cSC9wdW"}
+{"title":"Filme Teste 17 - 1733112184418","description":"Descrição do filme de teste número 17","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"MuzJMa938O2wmlMh"}
+{"title":"Filme Teste 18 - 1733112184430","description":"Descrição do filme de teste número 18","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"k3YDPgT5P0nm7Ioi"}
+{"title":"Filme Teste 19 - 1733112184446","description":"Descrição do filme de teste número 19","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"9nN1Xn3S9vo5BL3c"}
+{"title":"Filme Teste 20 - 1733112184456","description":"Descrição do filme de teste número 20","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ILLheDQFyNkXJOwv"}
+{"title":"Filme Teste 21 - 1733112184465","description":"Descrição do filme de teste número 21","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"RDAhBQ9SbzO2RC8E"}
+{"title":"Filme Teste 22 - 1733112184475","description":"Descrição do filme de teste número 22","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"e6IGWHnVeUgNpEqX"}
+{"title":"Filme Teste 23 - 1733112184486","description":"Descrição do filme de teste número 23","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"8QGVykkEM8viR4UB"}
+{"title":"Filme Teste 24 - 1733112184495","description":"Descrição do filme de teste número 24","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ZDI8QYmVQEUzlnf4"}
+{"title":"Filme Teste 25 - 1733112184504","description":"Descrição do filme de teste número 25","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"UrUCft5YZid3ii1z"}
+{"title":"Filme Teste 26 - 1733112184513","description":"Descrição do filme de teste número 26","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"UII1vZ0kjnljTpjV"}
+{"title":"Filme Teste 27 - 1733112184523","description":"Descrição do filme de teste número 27","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"nkmmdZZ3gEsReaL3"}
+{"title":"Filme Teste 28 - 1733112184532","description":"Descrição do filme de teste número 28","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"QX1115D2BQ1Wv9vT"}
+{"title":"Filme Teste 29 - 1733112184543","description":"Descrição do filme de teste número 29","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"65Qo2owltXtQ5k8D"}
+{"title":"Filme Teste 30 - 1733112184551","description":"Descrição do filme de teste número 30","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"zM0Us0p6J2kiOCyT"}
+{"title":"Filme Teste 31 - 1733112184561","description":"Descrição do filme de teste número 31","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"lRjWmVg7lujTdqOl"}
+{"title":"Filme Teste 32 - 1733112184569","description":"Descrição do filme de teste número 32","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"9RXyKjXcqz71hHSb"}
+{"title":"Filme Teste 33 - 1733112184579","description":"Descrição do filme de teste número 33","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"t36ViKCaourEd1k7"}
+{"title":"Filme Teste 34 - 1733112184589","description":"Descrição do filme de teste número 34","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"zJlQdXKVL4pPp2KH"}
+{"title":"Filme Teste 35 - 1733112184597","description":"Descrição do filme de teste número 35","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"bq2VHZIwnNolGoPE"}
+{"title":"Filme Teste 36 - 1733112184605","description":"Descrição do filme de teste número 36","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"QclrD8LWr4MKOvHk"}
+{"title":"Filme Teste 37 - 1733112184613","description":"Descrição do filme de teste número 37","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"2wBn37qyGURktij8"}
+{"title":"Filme Teste 38 - 1733112184619","description":"Descrição do filme de teste número 38","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"3r3VxXO1IXHbovBR"}
+{"title":"Filme Teste 39 - 1733112184627","description":"Descrição do filme de teste número 39","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"v0rKw0k0VcjXAup4"}
+{"title":"Filme Teste 40 - 1733112184634","description":"Descrição do filme de teste número 40","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"KVhmzXpzXypvc7VR"}
+{"title":"Filme Teste 41 - 1733112184640","description":"Descrição do filme de teste número 41","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"yVDENhA4PHSUBryS"}
+{"title":"Filme Teste 42 - 1733112184647","description":"Descrição do filme de teste número 42","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"GSlFvfJdGDMiZx4f"}
+{"title":"Filme Teste 43 - 1733112184654","description":"Descrição do filme de teste número 43","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ZhjaIJEnl5uVh0B8"}
+{"title":"Filme Teste 44 - 1733112184662","description":"Descrição do filme de teste número 44","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"yMzt5WnAuKbEeJXu"}
+{"title":"Filme Teste 45 - 1733112184669","description":"Descrição do filme de teste número 45","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"tYnkmvb6UDe2BTo5"}
+{"title":"Filme Teste 46 - 1733112184675","description":"Descrição do filme de teste número 46","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"IMCtRL4yxFZxX6p0"}
+{"title":"Filme Teste 47 - 1733112184683","description":"Descrição do filme de teste número 47","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"jqNV8hkjVb2bLJfF"}
+{"title":"Filme Teste 48 - 1733112184690","description":"Descrição do filme de teste número 48","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"AN1bh9LO69k7gDfY"}
+{"title":"Filme Teste 49 - 1733112184698","description":"Descrição do filme de teste número 49","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ruuaDYxWGXWJvk0c"}
+{"title":"Filme Teste 50 - 1733112184704","description":"Descrição do filme de teste número 50","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"GYGRtyPELh6bAvZ2"}
+{"title":"Filme Teste 51 - 1733112184711","description":"Descrição do filme de teste número 51","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"lsBdWdeFcvRrIuPz"}
+{"title":"Filme Teste 52 - 1733112184718","description":"Descrição do filme de teste número 52","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"FW4dFP0mjwyDqWUZ"}
+{"title":"Filme Teste 53 - 1733112184726","description":"Descrição do filme de teste número 53","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ep4woJmQuP3rvHBQ"}
+{"title":"Filme Teste 54 - 1733112184733","description":"Descrição do filme de teste número 54","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"7LjapIpEUXtd6rCV"}
+{"title":"Filme Teste 55 - 1733112184739","description":"Descrição do filme de teste número 55","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"QdH32NDv4xFIxRds"}
+{"title":"Filme Teste 56 - 1733112184745","description":"Descrição do filme de teste número 56","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"uRNwdP19ii388wTV"}
+{"title":"Filme Teste 57 - 1733112184751","description":"Descrição do filme de teste número 57","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"UZrIzdKYmjWvftGa"}
+{"title":"Filme Teste 58 - 1733112184756","description":"Descrição do filme de teste número 58","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"VmqQyjkm2A07jL8v"}
+{"title":"Filme Teste 59 - 1733112184763","description":"Descrição do filme de teste número 59","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ifTVxSr3uwI43G0F"}
+{"title":"Filme Teste 60 - 1733112184769","description":"Descrição do filme de teste número 60","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"9udwGiUXHajQW9ph"}
+{"title":"Filme Teste 61 - 1733112184775","description":"Descrição do filme de teste número 61","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"U1vzqnH72oAQspuE"}
+{"title":"Filme Teste 62 - 1733112184781","description":"Descrição do filme de teste número 62","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"5avynoeozkimpwNJ"}
+{"title":"Filme Teste 63 - 1733112184787","description":"Descrição do filme de teste número 63","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"9iQeSVnoxxR6G7tM"}
+{"title":"Filme Teste 64 - 1733112184798","description":"Descrição do filme de teste número 64","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"N70KfwsEwLiV7hL7"}
+{"title":"Filme Teste 65 - 1733112184808","description":"Descrição do filme de teste número 65","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"qLVl4vxY6kZe7Um6"}
+{"title":"Filme Teste 66 - 1733112184815","description":"Descrição do filme de teste número 66","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"f5UnviACHSvJaSEC"}
+{"title":"Filme Teste 67 - 1733112184822","description":"Descrição do filme de teste número 67","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"y6PANrLXmBp3OlbQ"}
+{"title":"Filme Teste 68 - 1733112184829","description":"Descrição do filme de teste número 68","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"2yX9Jqo3Xf5vFs3g"}
+{"title":"Filme Teste 69 - 1733112184840","description":"Descrição do filme de teste número 69","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"enw6cuACNwvWWYja"}
+{"title":"Filme Teste 70 - 1733112184847","description":"Descrição do filme de teste número 70","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"asjsmqzrNLJFmv3G"}
+{"title":"Filme Teste 71 - 1733112184855","description":"Descrição do filme de teste número 71","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"IuOU2hX45ogpGneG"}
+{"title":"Filme Teste 72 - 1733112184863","description":"Descrição do filme de teste número 72","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"48kVNvFjgTwQaJT8"}
+{"title":"Filme Teste 73 - 1733112184872","description":"Descrição do filme de teste número 73","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"kaA9xIhZtdf7hdA6"}
+{"title":"Filme Teste 74 - 1733112184879","description":"Descrição do filme de teste número 74","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"lIB1qhjyCsorTlFl"}
+{"title":"Filme Teste 75 - 1733112184884","description":"Descrição do filme de teste número 75","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ozJqCKqMaTQHYeZr"}
+{"title":"Filme Teste 76 - 1733112184889","description":"Descrição do filme de teste número 76","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"O9aQzvJODxmqmgFu"}
+{"title":"Filme Teste 77 - 1733112184895","description":"Descrição do filme de teste número 77","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"rROn2G7ZqX3JfcEB"}
+{"title":"Filme Teste 78 - 1733112184902","description":"Descrição do filme de teste número 78","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"jSUOuzuHzRk6Q82h"}
+{"title":"Filme Teste 79 - 1733112184909","description":"Descrição do filme de teste número 79","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"VzeVp2n4IBxBcrvy"}
+{"title":"Filme Teste 80 - 1733112184914","description":"Descrição do filme de teste número 80","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"g0OfvUI1cAB4gTYt"}
+{"title":"Filme Teste 81 - 1733112184921","description":"Descrição do filme de teste número 81","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"Rlj8BsgIvxd0stMe"}
+{"title":"Filme Teste 82 - 1733112184927","description":"Descrição do filme de teste número 82","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"7pOH1cPwrnKpu8X3"}
+{"title":"Filme Teste 83 - 1733112184933","description":"Descrição do filme de teste número 83","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"d9UBmFhPlciLZk2w"}
+{"title":"Filme Teste 84 - 1733112184938","description":"Descrição do filme de teste número 84","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"yRvvMBUCph5IXvA5"}
+{"title":"Filme Teste 85 - 1733112184943","description":"Descrição do filme de teste número 85","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"8bLuTeKFKm78z0tA"}
+{"title":"Filme Teste 86 - 1733112184951","description":"Descrição do filme de teste número 86","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"kGau4O5qhM0Q462U"}
+{"title":"Filme Teste 87 - 1733112184958","description":"Descrição do filme de teste número 87","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"FWqbrMiCs7uTIc3f"}
+{"title":"Filme Teste 88 - 1733112184965","description":"Descrição do filme de teste número 88","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ousiRvgN3lEsgiyN"}
+{"title":"Filme Teste 89 - 1733112184971","description":"Descrição do filme de teste número 89","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"DFYnOq3bQIWmaZTY"}
+{"title":"Filme Teste 90 - 1733112184978","description":"Descrição do filme de teste número 90","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"HaX0xPAKlozD6koL"}
+{"title":"Filme Teste 91 - 1733112184985","description":"Descrição do filme de teste número 91","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"SRJPbXPfNeH7KgzF"}
+{"title":"Filme Teste 92 - 1733112184992","description":"Descrição do filme de teste número 92","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"krdSDgPP26gC6cYS"}
+{"title":"Filme Teste 93 - 1733112184999","description":"Descrição do filme de teste número 93","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"X5muo0uKVeUpGAEY"}
+{"title":"Filme Teste 94 - 1733112185006","description":"Descrição do filme de teste número 94","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"HEPJG3HCxhqoe5f5"}
+{"title":"Filme Teste 95 - 1733112185012","description":"Descrição do filme de teste número 95","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"X4dGlCboO88LWNpK"}
+{"title":"Filme Teste 96 - 1733112185019","description":"Descrição do filme de teste número 96","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"QD6nEAk0LJzMlsKL"}
+{"title":"Filme Teste 97 - 1733112185027","description":"Descrição do filme de teste número 97","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"NE7BxKaQgiurHY4x"}
+{"title":"Filme Teste 98 - 1733112185033","description":"Descrição do filme de teste número 98","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"gssxgjxNY641ymhq"}
+{"title":"Filme Teste 99 - 1733112185039","description":"Descrição do filme de teste número 99","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"VmYtfJdzxTToaPGz"}
+{"title":"Filme Teste 100 - 1733112185045","description":"Descrição do filme de teste número 100","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"DYYHoMyl4DDr4qUO"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 20","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"K7Di7e6g2lRuTAKH"}
+{"$$deleted":true,"_id":"K7Di7e6g2lRuTAKH"}
+{"$$deleted":true,"_id":"ZADIbttqAcmhfQoX"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"SFb28FsgCqW8ozgI"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"QX1115D2BQ1Wv9vT"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"5qy5TsEzejPKeORz"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 40","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"KVhmzXpzXypvc7VR"}
+{"$$deleted":true,"_id":"KVhmzXpzXypvc7VR"}
+{"$$deleted":true,"_id":"U5iMf8mqoUUKjz3y"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"nY7Z8kQsa8Fwd7hR"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"r8LjwYQP4cSC9wdW"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"asjsmqzrNLJFmv3G"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 27","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"nkmmdZZ3gEsReaL3"}
+{"$$deleted":true,"_id":"nkmmdZZ3gEsReaL3"}
+{"title":"Filme Teste 1 - 1733112354307","description":"Descrição do filme de teste número 1","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"LEp4tye0U1BiSWOB"}
+{"$$deleted":true,"_id":"H2Uhj14Imt8tugHr"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"fQYIWvafaKnvy8cJ"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"1tRHg771DhJVX3OT"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"33BzqW2vVuiFADuS"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 63","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"lw0E7tkKzW9FZX9c"}
+{"$$deleted":true,"_id":"lw0E7tkKzW9FZX9c"}
+{"$$deleted":true,"_id":"vBDRACFBKlmYdgyk"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"iNNB79fvKIYp5qfw"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"tYnkmvb6UDe2BTo5"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"ozJqCKqMaTQHYeZr"}
+{"title":"Teste Filme Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"1tRHg771DhJVX3OT"}
+{"$$deleted":true,"_id":"1tRHg771DhJVX3OT"}
+{"$$deleted":true,"_id":"v0rKw0k0VcjXAup4"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"vbSwtqfrm7g5nioA"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"X9RwxxsHfCkKJksV"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"qVZ3xqVHuN4HqgUw"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 8","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"tVDr1ZrA21EjZLDS"}
+{"$$deleted":true,"_id":"tVDr1ZrA21EjZLDS"}
+{"$$deleted":true,"_id":"kNVuARNDiXkwY9cA"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"JSJ3QTrK48G1wfch"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"zJlQdXKVL4pPp2KH"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"ep4woJmQuP3rvHBQ"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 83","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"WFH8S93jU1HLMnaO"}
+{"$$deleted":true,"_id":"WFH8S93jU1HLMnaO"}
+{"$$deleted":true,"_id":"TDwVLhBQoWxUN5n9"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"j0kzKMOen2G7VzZk"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"7LjapIpEUXtd6rCV"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"hCeOgvSyvZB7KV6o"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 61","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"U1vzqnH72oAQspuE"}
+{"$$deleted":true,"_id":"U1vzqnH72oAQspuE"}
+{"$$deleted":true,"_id":"61q6ad2k9XWUfkSE"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"I28HANKIWRcyRTiK"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"yEK1GlZL1ck5FbKd"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"SXxicvGU8nWlTXJf"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 49","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"dDbYauztGxnnokZA"}
+{"$$deleted":true,"_id":"dDbYauztGxnnokZA"}
+{"$$deleted":true,"_id":"VmqQyjkm2A07jL8v"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"xV0eOR07ma6pNyU2"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Qb8WaehPPzrauyHQ"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"LgXh1Ay0zdBc4EMy"}
+{"title":"Teste Filme Atualizado","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"drBzFCtdhcnnLGcf"}
+{"$$deleted":true,"_id":"drBzFCtdhcnnLGcf"}
+{"$$deleted":true,"_id":"zM0Us0p6J2kiOCyT"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"E95GaxtWlAIDARcD"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"iWmbZby8g9fahiyr"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"GSlFvfJdGDMiZx4f"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"asjsmqzrNLJFmv3G"}
+{"$$deleted":true,"_id":"asjsmqzrNLJFmv3G"}
+{"$$deleted":true,"_id":"ltyR048WGoFJ3E0G"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"QfN0YV8EicjlBmfs"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"FWqbrMiCs7uTIc3f"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"r8LjwYQP4cSC9wdW"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 5","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"2tedJxHXVlptsZFI"}
+{"$$deleted":true,"_id":"2tedJxHXVlptsZFI"}
+{"$$deleted":true,"_id":"Tgq19RCawge4k12X"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"N0XpZfKuFoqlGfQz"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"GSlFvfJdGDMiZx4f"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"UZrIzdKYmjWvftGa"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 60","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"ICutuO7FBi0UnXwH"}
+{"$$deleted":true,"_id":"ICutuO7FBi0UnXwH"}
+{"$$deleted":true,"_id":"6Kujj5dEXjD5S1nP"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"1x7RzBXk1v9ayjn0"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"DYYHoMyl4DDr4qUO"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"vcALWoHTAUOlUZ5J"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 47","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"jqNV8hkjVb2bLJfF"}
+{"$$deleted":true,"_id":"jqNV8hkjVb2bLJfF"}
+{"$$deleted":true,"_id":"LgXh1Ay0zdBc4EMy"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"CsTjZ7hXe26LCuc3"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Bjfas1Ha5GjThsIs"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"JBAiNIImVEb9qTss"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 96","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"QD6nEAk0LJzMlsKL"}
+{"$$deleted":true,"_id":"QD6nEAk0LJzMlsKL"}
+{"$$deleted":true,"_id":"9udwGiUXHajQW9ph"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"yBqGLo535fZGVi1g"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"5qy5TsEzejPKeORz"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"IcW2RmwWEi2Zzaha"}
+{"title":"Teste Filme Atualizado","description":"Descrição do filme de teste número 50","launchdate":"2024-12-15T00:00:00Z","showtimes":["2024-12-15T15:00:00Z"],"_id":"VUob5p1eC3OzooXi"}
+{"$$deleted":true,"_id":"VUob5p1eC3OzooXi"}

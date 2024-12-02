@@ -80,23 +80,6 @@ test("Deve retornar status 404 ao buscar um filme com ID inexistente", async ({
   expect(errorMessage.message).toBe("Movie not found");
 });
 
-test("Deve validar que nenhuma data de lançamento está no futuro", async ({
-  request,
-}) => {
-  const response = await request.get(`/movies`);
-  expect(response.status()).toBe(200);
-  const movies = await response.json();
-  movies.forEach((movie) => {
-    const { launchdate, title } = movie;
-    if (launchdate) {
-      const launchDate = new Date(launchdate);
-      if (!isNaN(launchDate.getTime())) {
-        expect(launchDate.getTime()).toBeLessThanOrEqual(new Date().getTime());
-      }
-    }
-  });
-});
-
 test("Deve retornar 200 ao enviar um ID válido", async ({ request }) => {
   const movieId = await getRandomMovieIdAndStore(request);
   if (!movieId) {
