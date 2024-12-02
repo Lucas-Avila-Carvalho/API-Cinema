@@ -1,8 +1,8 @@
 ### **Planejamento Geral de Testes para a API**  
 
 ### Mapa mental
-![alt text](image.png)
-
+![alt text](/Planejamento_de_Testes/images/mapamental.png)
+![alt text](/Planejamento_de_Testes/images/promptgeral.png)
 
 ### **1. Objetivo**  
 Garantir que todas as funcionalidades principais da API, incluindo as rotas `/tickets` e `/movies`, sejam testadas de forma abrangente, cobrindo todos os requisitos funcionais, de segurança, performance e validação de regras de negócio.  

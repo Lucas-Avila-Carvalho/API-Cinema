@@ -1,5 +1,5 @@
 ### **Planejamento de Testes para a Rota `/tickets`**
-
+![alt text](/Planejamento_de_Testes/images/prompttickets.png)
 ### **1. Objetivo**
 Garantir que a funcionalidade de reserva de ingressos na API seja robusta, segura e eficiente, cobrindo todos os cenários de cadastro, validação, segurança e desempenho.
 
