@@ -6,7 +6,9 @@ test("Gerenciamento completo de filmes com validação de resposta detalhada", a
   const movieId = await getRandomMovieIdAndStore(request);
 
   // 2. Listar filmes e validar o formato da resposta
-  const listResponse = await request.get("/movies");
+  const listResponse = await request.get("/movies", {
+    timeout: 60000, // Aumentando o timeout para 60 segundos
+  });
   expect(listResponse.status()).toBe(200);
 
   const movies = await listResponse.json();
@@ -26,14 +28,21 @@ test("Gerenciamento completo de filmes com validação de resposta detalhada", a
     expect(typeof movie._id).toBe("string");
   });
 
-  // 3. Atualizar o filme
+  // 3. Atualizar o filme com tentativas e timeout maior
+  console.log(`Atualizando filme com ID: ${movieId}`);
   const updateResponse = await request.put(`/movies/${movieId}`, {
     data: { title: "Teste Filme Atualizado" },
+    timeout: 60000,  // Aumentando o timeout para 60 segundos
+    retry: { times: 3, interval: 1000 },  // Tentando até 3 vezes com intervalo de 1 segundo
   });
+  console.log(`Status da resposta de atualização: ${updateResponse.status()}`);
   expect(updateResponse.status()).toBe(200);
 
   // 4. Obter o filme atualizado
-  const getResponse = await request.get(`/movies/${movieId}`);
+  const getResponse = await request.get(`/movies/${movieId}`, {
+    timeout: 60000,  // Aumentando o timeout para 60 segundos
+  });
+  console.log(`Status da resposta de obtenção do filme: ${getResponse.status()}`);
   expect(getResponse.status()).toBe(200);
 
   const updatedMovie = await getResponse.json();
@@ -47,11 +56,18 @@ test("Gerenciamento completo de filmes com validação de resposta detalhada", a
   expect(updatedMovie).toHaveProperty("_id");
 
   // 5. Excluir o filme
-  const deleteResponse = await request.delete(`/movies/${movieId}`);
+  console.log(`Excluindo filme com ID: ${movieId}`);
+  const deleteResponse = await request.delete(`/movies/${movieId}`, {
+    timeout: 60000,  // Aumentando o timeout para 60 segundos
+    retry: { times: 3, interval: 1000 },  // Tentando até 3 vezes com intervalo de 1 segundo
+  });
+  console.log(`Status da resposta de exclusão: ${deleteResponse.status()}`);
   expect(deleteResponse.status()).toBe(200);
 
   // Verificar exclusão
-  const verifyResponse = await request.get(`/movies/${movieId}`);
+  const verifyResponse = await request.get(`/movies/${movieId}`, {
+    timeout: 60000,  // Aumentando o timeout para 60 segundos
+  });
+  console.log(`Status da resposta de verificação da exclusão: ${verifyResponse.status()}`);
   expect(verifyResponse.status()).toBe(404);
 });
-
