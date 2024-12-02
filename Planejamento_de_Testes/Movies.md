@@ -1,6 +1,6 @@
 
 ### Planejamento de Testes para a Rota `/movies`
-
+![alt text](/Planejamento_de_Testes/images/promptmovies.png)
 ---
 
 ### **1. Objetivo**  
