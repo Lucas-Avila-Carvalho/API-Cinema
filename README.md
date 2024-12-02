@@ -89,6 +89,22 @@ Planejamento de testes é o processo de organizar as atividades de teste, como d
 
 Testes de carga simulam um número alto de usuários para verificar como o sistema se comporta sob pressão. São fundamentais para garantir que a aplicação suporte grandes volumes de acesso sem falhas.
 
+#### Instalando k6
+
+```bash
+winget install k6 --source winget
+```
+#### Utilizando k6
+
+
+```bash
+k6 run seu-script.js
+```
+#### Automatizando por um arquivo
+
+```bash
+node seu-script.js
+```
 ### Testes Automatizados
 
 Testes automatizados são executados por ferramentas como Playwright ou Jest, permitindo que os testes sejam repetidos facilmente sempre que o código for alterado. Isso melhora a cobertura e reduz a quantidade de testes manuais.
