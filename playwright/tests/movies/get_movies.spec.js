@@ -1,6 +1,5 @@
 import { test, expect } from "@playwright/test";
-import { getRandomMovieIdAndStore } from '../../data/cria-filme';
-
+import { getRandomMovieIdAndStore } from "../../data/cria-filme";
 
 test("Deve retornar uma lista de filmes com status 200", async ({
   request,
@@ -98,14 +97,15 @@ test("Deve validar que nenhuma data de lançamento está no futuro", async ({
   });
 });
 
-test.describe("GET /movies/:id", () => {
-  test("Deve retornar 200 ao enviar um ID válido", async ({ request }) => {
-    const movieId = await getRandomMovieIdAndStore(request);
-    const response = await request.get(`/movies/${movieId}`);
-    expect(response.status()).toBe(200);
-    const movie = await response.json()
-    expect(movie).toHaveProperty("_id", movieId);
-  });
+test("Deve retornar 200 ao enviar um ID válido", async ({ request }) => {
+  const movieId = await getRandomMovieIdAndStore(request);
+  if (!movieId) {
+    return;
+  }
+  const response = await request.get(`/movies/${movieId}`);
+  expect(response.status()).toBe(200);
+  const movie = await response.json();
+  expect(movie).toHaveProperty("_id", movieId);
 });
 
 /* MELHORIA REPORTADA

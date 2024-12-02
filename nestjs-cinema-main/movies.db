@@ -1,138 +1,264 @@
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"0A1kmC9lnFrmpfLc"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"1YKhFaxrYHLkxbUG"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"3DBXP0GOiPDp01Ll"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"5JhbNSxcUSSAGhp2"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"5Yuo7RydxERebUqI"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"99Y8V23G5VBTiliz"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"BC8WcTTP3HPNj8ia"}
-{"title":"Filme de Sucesso","description":"Um filme criado com sucesso","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z","2024-12-01T20:00:00Z"],"_id":"Bng6DaspVNIyQYmL"}
-{"title":"","description":"","launchdate":"","showtimes":[""],"_id":"DWihJdZ1olcjZ7FO"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Hq5DrfKzscfvPTPN"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"IBjpQNSyN0xtmMEO"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"JSoPbaj8cHJNbLJU"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"MD6spMpPDItbCMus"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"NN3MG4E8irzym3b1"}
-{"title":"título","description":"descrição","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"NPFaPKmdzDEiIe5v"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"OoIa323IjKxuoo68"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"SFbC21ZLdDEg3Zvd"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"TUgevBtpqftwUcim"}
-{"title":"Filme de Sucesso","description":"Um filme criado com sucesso","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z","2024-12-01T20:00:00Z"],"_id":"Vd8TCHSb4CiIqQyH"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"WAUJTxZb8i9DU9l7"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"WeLgWflt2WrcAB76"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"X2W5syVAYR9mNLMO"}
-{"title":"Filme com Data Inválida","description":"Descrição válida","launchdate":"data-invalida","showtimes":["2024-12-01T15:00:00Z"],"_id":"X5amBCW3J9bFbotc"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"a2UfBmfMX40L1zNw"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"c825v5q5FUptYO1D"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"cHXheIIgs03GKtWa"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"d7t3n77IqNmhrzGD"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"eAlGNPtSZ0VlF4ma"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"eBF3ZGhpPm815EFX"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"g4LPDKE5slQ5Tg9b"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"gk3MRjxXEVL23OOo"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"hy83m65BKkOMQghN"}
-{"title":"Filme de Sucesso","description":"Um filme criado com sucesso","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z","2024-12-01T20:00:00Z"],"_id":"iTI7VM5ewuHCAuUW"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"j7ZcAKgKonltWM9A"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"jPkXHlRHq2enFaY9"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"lihykuYoiobgVSCJ"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"n3YKCq7HcdYlY0qB"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"n5XmMfIMwgOb3b0R"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"pSt72hVpIEYvtXKH"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"0jv4Sem1t2HKzPLr"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"347JFFxpgofhC737"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"7c0uzYxJNtu90L8y"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"BC8WcTTP3HPNj8ia"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"BLMrDyhDKEFEZEaD"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"OZGAA3mGLUS8TGBI"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"ObqZfkKwIQm7dLyz"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"UMTqQnv1M1ODwqPH"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"WdE91oBWcpr2JAm7"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Y9g89M5xkJpJgHHd"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"d7t3n77IqNmhrzGD"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"dmcv4heXc81LwNoH"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"lXeLVXUgMq014hoV"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"lihykuYoiobgVSCJ"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"n3YKCq7HcdYlY0qB"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"nllJlkSrUpGIu2ga"}
 {"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"qb2MUEVtACzAj5av"}
 {"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"rQ7rJauPzdHYSGaU"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"rYC0RAs9yIofwdgh"}
-{"title":"Filme com Data Inválida","description":"Descrição válida","launchdate":"data-invalida","showtimes":["2024-12-01T15:00:00Z"],"_id":"rZaTU4Hhk4erOgh0"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"rlYvJLcDOKGsAXQH"}
-{"title":"Filme Exemplo","description":"Descrição do filme exemplo.","launchdate":"2024-11-30T20:58:17.237Z","showtimes":["2024-12-01T10:00:00","2024-12-01T12:00:00"],"_id":"ryakGPBRTjBCtNbl"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"uoM2dCfoeSQNrWsu"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"x43yKGMIzxg3lwz8"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"ySqFcdTG03QvtKfC"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"ywCKktoH4bKMMjuN"}
-{"$$deleted":true,"_id":"3DBXP0GOiPDp01Ll"}
-{"$$deleted":true,"_id":"TUgevBtpqftwUcim"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"9z3KxnRf4e7r46Rq"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Bng6DaspVNIyQYmL"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"ryakGPBRTjBCtNbl"}
-{"$$deleted":true,"_id":"eAlGNPtSZ0VlF4ma"}
-{"$$deleted":true,"_id":"ryakGPBRTjBCtNbl"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"R2iOm3Z5RvHeFXtG"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Bng6DaspVNIyQYmL"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"9z3KxnRf4e7r46Rq"}
-{"$$deleted":true,"_id":"uoM2dCfoeSQNrWsu"}
-{"$$deleted":true,"_id":"cHXheIIgs03GKtWa"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"JxyQcpOp76mhofmz"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"d7t3n77IqNmhrzGD"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"rQ7rJauPzdHYSGaU"}
-{"$$deleted":true,"_id":"NN3MG4E8irzym3b1"}
-{"$$deleted":true,"_id":"99Y8V23G5VBTiliz"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"MTJY9nBmSUdqFGaj"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"IBjpQNSyN0xtmMEO"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"n5XmMfIMwgOb3b0R"}
-{"$$deleted":true,"_id":"Vd8TCHSb4CiIqQyH"}
-{"$$deleted":true,"_id":"jPkXHlRHq2enFaY9"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"R0Wny8llShFWSMWY"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"R2iOm3Z5RvHeFXtG"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"MTJY9nBmSUdqFGaj"}
-{"$$deleted":true,"_id":"pSt72hVpIEYvtXKH"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"OZGAA3mGLUS8TGBI"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"DWihJdZ1olcjZ7FO"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"hy83m65BKkOMQghN"}
-{"$$deleted":true,"_id":"Bng6DaspVNIyQYmL"}
-{"$$deleted":true,"_id":"ySqFcdTG03QvtKfC"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"tBxBAiPEE1k4lrZX"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"n3YKCq7HcdYlY0qB"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"g4LPDKE5slQ5Tg9b"}
-{"$$deleted":true,"_id":"IBjpQNSyN0xtmMEO"}
-{"$$deleted":true,"_id":"5Yuo7RydxERebUqI"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"dmcv4heXc81LwNoH"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"MTJY9nBmSUdqFGaj"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"ywCKktoH4bKMMjuN"}
-{"$$deleted":true,"_id":"j7ZcAKgKonltWM9A"}
-{"$$deleted":true,"_id":"DWihJdZ1olcjZ7FO"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"0jv4Sem1t2HKzPLr"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"dmcv4heXc81LwNoH"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"JSoPbaj8cHJNbLJU"}
-{"$$deleted":true,"_id":"NPFaPKmdzDEiIe5v"}
-{"$$deleted":true,"_id":"9z3KxnRf4e7r46Rq"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"oZJYnpIdJWewrajF"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"0A1kmC9lnFrmpfLc"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"1YKhFaxrYHLkxbUG"}
-{"$$deleted":true,"_id":"ywCKktoH4bKMMjuN"}
-{"$$deleted":true,"_id":"R2iOm3Z5RvHeFXtG"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"N9oBwnsr3v34lyCJ"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Hq5DrfKzscfvPTPN"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"hy83m65BKkOMQghN"}
-{"$$deleted":true,"_id":"n5XmMfIMwgOb3b0R"}
-{"$$deleted":true,"_id":"OoIa323IjKxuoo68"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"lBQCLVoFQvdb8eA3"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"JxyQcpOp76mhofmz"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"eBF3ZGhpPm815EFX"}
-{"$$deleted":true,"_id":"MTJY9nBmSUdqFGaj"}
-{"$$deleted":true,"_id":"eBF3ZGhpPm815EFX"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"8L5YPeigo7gSAUZL"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"5JhbNSxcUSSAGhp2"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"WAUJTxZb8i9DU9l7"}
-{"$$deleted":true,"_id":"rlYvJLcDOKGsAXQH"}
-{"$$deleted":true,"_id":"JxyQcpOp76mhofmz"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"7BVR4inhEhltbi7r"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"BC8WcTTP3HPNj8ia"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"JSoPbaj8cHJNbLJU"}
-{"$$deleted":true,"_id":"8L5YPeigo7gSAUZL"}
-{"$$deleted":true,"_id":"gk3MRjxXEVL23OOo"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"WdE91oBWcpr2JAm7"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"WeLgWflt2WrcAB76"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"BC8WcTTP3HPNj8ia"}
-{"$$deleted":true,"_id":"5JhbNSxcUSSAGhp2"}
-{"$$deleted":true,"_id":"a2UfBmfMX40L1zNw"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"edeIkBB80IQ1Y7yH"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"tBxBAiPEE1k4lrZX"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"wHvj9Y2EhkSAjNIU"}
+{"$$deleted":true,"_id":"ObqZfkKwIQm7dLyz"}
+{"$$deleted":true,"_id":"7c0uzYxJNtu90L8y"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"BW5JUdNAPeO9M2ho"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"lXeLVXUgMq014hoV"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"OZGAA3mGLUS8TGBI"}
+{"$$deleted":true,"_id":"d7t3n77IqNmhrzGD"}
+{"$$deleted":true,"_id":"rQ7rJauPzdHYSGaU"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"VypkES7pQj01V6FH"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"VypkES7pQj01V6FH"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"UMTqQnv1M1ODwqPH"}
+{"$$deleted":true,"_id":"347JFFxpgofhC737"}
+{"$$deleted":true,"_id":"WdE91oBWcpr2JAm7"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"9ta8amLsTDKVOUcR"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"BLMrDyhDKEFEZEaD"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"OZGAA3mGLUS8TGBI"}
+{"title":"Título Atualizado Sem Token","description":"Descrição sem autenticação","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"wHvj9Y2EhkSAjNIU"}
+{"$$deleted":true,"_id":"wHvj9Y2EhkSAjNIU"}
+{"$$deleted":true,"_id":"OZGAA3mGLUS8TGBI"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"aF8hFxXEI5cWqsg5"}
 {"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"0jv4Sem1t2HKzPLr"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"c825v5q5FUptYO1D"}
-{"$$deleted":true,"_id":"x43yKGMIzxg3lwz8"}
-{"$$deleted":true,"_id":"0A1kmC9lnFrmpfLc"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"F2BpLx0hJHmdPnO4"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"oZJYnpIdJWewrajF"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"WeLgWflt2WrcAB76"}
-{"$$deleted":true,"_id":"Hq5DrfKzscfvPTPN"}
-{"$$deleted":true,"_id":"SFbC21ZLdDEg3Zvd"}
-{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"z82TNIFCVghuBPcc"}
-{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"n3YKCq7HcdYlY0qB"}
-{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"d7t3n77IqNmhrzGD"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"dmcv4heXc81LwNoH"}
+{"$$deleted":true,"_id":"BC8WcTTP3HPNj8ia"}
+{"$$deleted":true,"_id":"BLMrDyhDKEFEZEaD"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"d5hCZnlm24NKTRzy"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"UMTqQnv1M1ODwqPH"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Y9g89M5xkJpJgHHd"}
+{"$$deleted":true,"_id":"0jv4Sem1t2HKzPLr"}
+{"$$deleted":true,"_id":"BW5JUdNAPeO9M2ho"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"tTIgz6P8c5lHZ35W"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"9ta8amLsTDKVOUcR"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"d5hCZnlm24NKTRzy"}
+{"$$deleted":true,"_id":"aF8hFxXEI5cWqsg5"}
+{"$$deleted":true,"_id":"n3YKCq7HcdYlY0qB"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"pEl4doesOfpSe7CW"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"qb2MUEVtACzAj5av"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"dmcv4heXc81LwNoH"}
+{"$$deleted":true,"_id":"tTIgz6P8c5lHZ35W"}
+{"$$deleted":true,"_id":"lihykuYoiobgVSCJ"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"Cwe413iQwv6u0ev5"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"UMTqQnv1M1ODwqPH"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"UMTqQnv1M1ODwqPH"}
+{"$$deleted":true,"_id":"pEl4doesOfpSe7CW"}
+{"$$deleted":true,"_id":"UMTqQnv1M1ODwqPH"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"L8SYU4M2By1HQB4A"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"9ta8amLsTDKVOUcR"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"lXeLVXUgMq014hoV"}
+{"$$deleted":true,"_id":"9ta8amLsTDKVOUcR"}
+{"$$deleted":true,"_id":"tBxBAiPEE1k4lrZX"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"wuYLU1J1OlVzSJz7"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"nllJlkSrUpGIu2ga"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"dmcv4heXc81LwNoH"}
+{"$$deleted":true,"_id":"Y9g89M5xkJpJgHHd"}
+{"$$deleted":true,"_id":"VypkES7pQj01V6FH"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"g9ImQYbYRAPchZM3"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"wuYLU1J1OlVzSJz7"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"g9ImQYbYRAPchZM3"}
+{"$$deleted":true,"_id":"d5hCZnlm24NKTRzy"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"DFJNbmHE9lY2StiU"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"g9ImQYbYRAPchZM3"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"wuYLU1J1OlVzSJz7"}
+{"$$deleted":true,"_id":"lXeLVXUgMq014hoV"}
+{"$$deleted":true,"_id":"wuYLU1J1OlVzSJz7"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"XiXTIhefWh1827mv"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"g9ImQYbYRAPchZM3"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"g9ImQYbYRAPchZM3"}
+{"$$deleted":true,"_id":"dmcv4heXc81LwNoH"}
+{"$$deleted":true,"_id":"DFJNbmHE9lY2StiU"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"HlsoQbMAxHnX0Ndj"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Cwe413iQwv6u0ev5"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"g9ImQYbYRAPchZM3"}
+{"$$deleted":true,"_id":"qb2MUEVtACzAj5av"}
+{"$$deleted":true,"_id":"Cwe413iQwv6u0ev5"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"e6jMfNgQXU07GM3I"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"HlsoQbMAxHnX0Ndj"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"nllJlkSrUpGIu2ga"}
+{"$$deleted":true,"_id":"HlsoQbMAxHnX0Ndj"}
+{"$$deleted":true,"_id":"e6jMfNgQXU07GM3I"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"H0rlk63nF1oEwrFk"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"L8SYU4M2By1HQB4A"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"L8SYU4M2By1HQB4A"}
+{"$$deleted":true,"_id":"g9ImQYbYRAPchZM3"}
+{"$$deleted":true,"_id":"L8SYU4M2By1HQB4A"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"A949KJwuFf12rSh1"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"H0rlk63nF1oEwrFk"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"nllJlkSrUpGIu2ga"}
+{"$$deleted":true,"_id":"XiXTIhefWh1827mv"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"SOUuiSP4FK7EQKbP"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"nllJlkSrUpGIu2ga"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"nllJlkSrUpGIu2ga"}
+{"$$deleted":true,"_id":"nllJlkSrUpGIu2ga"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"QeIABRUSQEqJAgj4"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"H0rlk63nF1oEwrFk"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"SOUuiSP4FK7EQKbP"}
+{"$$deleted":true,"_id":"H0rlk63nF1oEwrFk"}
+{"$$deleted":true,"_id":"QeIABRUSQEqJAgj4"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"etUZIhX8MvlzE6e9"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"SOUuiSP4FK7EQKbP"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"etUZIhX8MvlzE6e9"}
+{"$$deleted":true,"_id":"SOUuiSP4FK7EQKbP"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"8A6oLaqEuukGV12Y"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"8A6oLaqEuukGV12Y"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"etUZIhX8MvlzE6e9"}
+{"$$deleted":true,"_id":"8A6oLaqEuukGV12Y"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"gY3I6bqDRaqPPs4Q"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"A949KJwuFf12rSh1"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"A949KJwuFf12rSh1"}
+{"$$deleted":true,"_id":"gY3I6bqDRaqPPs4Q"}
+{"$$deleted":true,"_id":"A949KJwuFf12rSh1"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"2taTJEitheqqxEBo"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"2taTJEitheqqxEBo"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"2taTJEitheqqxEBo"}
+{"$$deleted":true,"_id":"etUZIhX8MvlzE6e9"}
+{"$$deleted":true,"_id":"2taTJEitheqqxEBo"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"SMVU0Dat8EodTI5K"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"SMVU0Dat8EodTI5K"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"SMVU0Dat8EodTI5K"}
+{"$$deleted":true,"_id":"SMVU0Dat8EodTI5K"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"riEe6iSMpPAxNGF3"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"riEe6iSMpPAxNGF3"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"riEe6iSMpPAxNGF3"}
+{"$$deleted":true,"_id":"riEe6iSMpPAxNGF3"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"NsxbmfZmWhE2ULoJ"}
+{"$$deleted":true,"_id":"NsxbmfZmWhE2ULoJ"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"DAEiS2DuNlhn09J6"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"DAEiS2DuNlhn09J6"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"DAEiS2DuNlhn09J6"}
+{"$$deleted":true,"_id":"DAEiS2DuNlhn09J6"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"uGKqpWBBHdFtGoFE"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"uGKqpWBBHdFtGoFE"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"uGKqpWBBHdFtGoFE"}
+{"$$deleted":true,"_id":"uGKqpWBBHdFtGoFE"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"GtpPIsn5y0XWZwE3"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"GtpPIsn5y0XWZwE3"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"GtpPIsn5y0XWZwE3"}
+{"$$deleted":true,"_id":"GtpPIsn5y0XWZwE3"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"YxCL9fZ3e9t4NIC7"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"YxCL9fZ3e9t4NIC7"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"YxCL9fZ3e9t4NIC7"}
+{"$$deleted":true,"_id":"YxCL9fZ3e9t4NIC7"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"JFncjMae8Pzkg9IA"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"JFncjMae8Pzkg9IA"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"JFncjMae8Pzkg9IA"}
+{"$$deleted":true,"_id":"JFncjMae8Pzkg9IA"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"ybM74XS9Sfatp08G"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"ybM74XS9Sfatp08G"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"ybM74XS9Sfatp08G"}
+{"$$deleted":true,"_id":"ybM74XS9Sfatp08G"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"jggilhb4S94t25NW"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"jggilhb4S94t25NW"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"jggilhb4S94t25NW"}
+{"$$deleted":true,"_id":"jggilhb4S94t25NW"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"pfdrDjOu1q14jRl3"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"pfdrDjOu1q14jRl3"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"pfdrDjOu1q14jRl3"}
+{"$$deleted":true,"_id":"pfdrDjOu1q14jRl3"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"zvjeABGx1I83toNj"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"zvjeABGx1I83toNj"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"zvjeABGx1I83toNj"}
+{"$$deleted":true,"_id":"zvjeABGx1I83toNj"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"Lb4YAoPc9xKSbr6x"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Lb4YAoPc9xKSbr6x"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Lb4YAoPc9xKSbr6x"}
+{"$$deleted":true,"_id":"Lb4YAoPc9xKSbr6x"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"y1uM5dksnP7b50S7"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"y1uM5dksnP7b50S7"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"y1uM5dksnP7b50S7"}
+{"$$deleted":true,"_id":"y1uM5dksnP7b50S7"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"Cxb3aLrzeNrHFqTK"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Cxb3aLrzeNrHFqTK"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Cxb3aLrzeNrHFqTK"}
+{"$$deleted":true,"_id":"Cxb3aLrzeNrHFqTK"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"d5MmTJK5Jv3HZbz1"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"d5MmTJK5Jv3HZbz1"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"d5MmTJK5Jv3HZbz1"}
+{"$$deleted":true,"_id":"d5MmTJK5Jv3HZbz1"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"PSQ9PbsRfbILVq2p"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"PSQ9PbsRfbILVq2p"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"PSQ9PbsRfbILVq2p"}
+{"$$deleted":true,"_id":"PSQ9PbsRfbILVq2p"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"z6HX55fjlotHWPYu"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"z6HX55fjlotHWPYu"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"z6HX55fjlotHWPYu"}
+{"$$deleted":true,"_id":"z6HX55fjlotHWPYu"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"rqz2wr3hmBY5mCES"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"rqz2wr3hmBY5mCES"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"rqz2wr3hmBY5mCES"}
+{"$$deleted":true,"_id":"rqz2wr3hmBY5mCES"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"147LKMV45D7Moxdf"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"147LKMV45D7Moxdf"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"147LKMV45D7Moxdf"}
+{"$$deleted":true,"_id":"147LKMV45D7Moxdf"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"on2aQHMbs0xQRPa6"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"on2aQHMbs0xQRPa6"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"on2aQHMbs0xQRPa6"}
+{"$$deleted":true,"_id":"on2aQHMbs0xQRPa6"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"16NKdQaDUxWvVgde"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"16NKdQaDUxWvVgde"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"16NKdQaDUxWvVgde"}
+{"$$deleted":true,"_id":"16NKdQaDUxWvVgde"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"Y2Hho2Q9KiILUZlg"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Y2Hho2Q9KiILUZlg"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"Y2Hho2Q9KiILUZlg"}
+{"$$deleted":true,"_id":"Y2Hho2Q9KiILUZlg"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"411aYgol3b8CaJAM"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"411aYgol3b8CaJAM"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"411aYgol3b8CaJAM"}
+{"$$deleted":true,"_id":"411aYgol3b8CaJAM"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"IsfpFnBjdr5sZE9N"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"IsfpFnBjdr5sZE9N"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"IsfpFnBjdr5sZE9N"}
+{"title":"título","description":"descrição","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"EEfrJLL310U8p9HW"}
+{"title":"título","description":"descrição","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"373hZpYrLQ9Fi0Oy"}
+{"title":"título","description":"descrição","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"GGe86GX8SFqO37qX"}
+{"title":"título","description":"descrição","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"CanTh81Pl6SMSDDZ"}
+{"title":"título","description":"descrição","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"YZuWsN8aM0xBbUUB"}
+{"title":"","description":"","launchdate":"","showtimes":[""],"_id":"373hZpYrLQ9Fi0Oy"}
+{"title":"","description":"","launchdate":"","showtimes":[""],"_id":"373hZpYrLQ9Fi0Oy"}
+{"title":"","description":"","launchdate":"","showtimes":[""],"_id":"373hZpYrLQ9Fi0Oy"}
+{"title":"","description":"","launchdate":"","showtimes":[""],"_id":"373hZpYrLQ9Fi0Oy"}
+{"title":"","description":"","launchdate":"","showtimes":[""],"_id":"373hZpYrLQ9Fi0Oy"}
+{"$$deleted":true,"_id":"373hZpYrLQ9Fi0Oy"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"RiOacxhXgpPMW3QU"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"CanTh81Pl6SMSDDZ"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"EEfrJLL310U8p9HW"}
+{"$$deleted":true,"_id":"GGe86GX8SFqO37qX"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"ymaFg2Qt9B4VFK6c"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"CanTh81Pl6SMSDDZ"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"IsfpFnBjdr5sZE9N"}
+{"$$deleted":true,"_id":"RiOacxhXgpPMW3QU"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"A7iPNFCjVEI3S1yZ"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"YZuWsN8aM0xBbUUB"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"A7iPNFCjVEI3S1yZ"}
+{"$$deleted":true,"_id":"YZuWsN8aM0xBbUUB"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"a83N70aUgBWMGmpE"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"a83N70aUgBWMGmpE"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"A7iPNFCjVEI3S1yZ"}
+{"$$deleted":true,"_id":"EEfrJLL310U8p9HW"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"IFT83sbEtUJ7hTZO"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"CanTh81Pl6SMSDDZ"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"IFT83sbEtUJ7hTZO"}
+{"$$deleted":true,"_id":"ymaFg2Qt9B4VFK6c"}
+{"title":"titulo","description":"descricao","launchdate":"2024-11-27T17:26:08.728Z","showtimes":["string"],"_id":"GR5lyZ6099x27Dtp"}
+{"title":"Título Atualizado","description":"Descrição atualizada do filme","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"CanTh81Pl6SMSDDZ"}
+{"title":"Novo Título Atualizado","description":"Descrição do filme com dados válidos","launchdate":"2024-12-01T00:00:00Z","showtimes":["2024-12-01T15:00:00Z"],"_id":"A7iPNFCjVEI3S1yZ"}

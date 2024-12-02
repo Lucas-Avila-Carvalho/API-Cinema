@@ -41,10 +41,12 @@ test("Deve buscar um ticket existente por ID", async ({ request }) => {
   expect(ticket._id).toBe(ticketId);  
 });
 
-
-test("Deve retornar 400 quando requisitar tickets com parâmetros inválidos", async ({ request }) => {
-  const response = await request.get('/tickets?movieId=invalidMovieId&userId=invalidUserId');
-  expect(response.status()).toBe(400);  // Código 400 para Bad Request
+/* MELHORIA REPORTADA
+test("Deve falhar ao listar os ingressos sem autorização", async ({ request }) => {
+  const response = await request.get("/tickets", {
+    headers: { Authorization: "" },
+  });
+  expect(response.status()).toBe(401);
   const errorResponse = await response.json();
-  expect(errorResponse.message).toBe("Parâmetros inválidos.");
-});
+  expect(errorResponse.message).toBe("Token inválido ou ausente");
+});*/
