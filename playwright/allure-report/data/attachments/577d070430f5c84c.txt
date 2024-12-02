@@ -1,0 +1,2 @@
+Criados 100 ingressos em 936 ms
+Deletados 100 ingressos

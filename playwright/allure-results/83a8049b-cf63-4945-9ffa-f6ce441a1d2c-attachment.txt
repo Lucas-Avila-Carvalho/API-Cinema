@@ -1,0 +1,6 @@
+Atualizando filme com ID: IImCEVQm1d2B9rKQ
+Status da resposta de atualização: 200
+Status da resposta de obtenção do filme: 200
+Excluindo filme com ID: IImCEVQm1d2B9rKQ
+Status da resposta de exclusão: 200
+Status da resposta de verificação da exclusão: 404

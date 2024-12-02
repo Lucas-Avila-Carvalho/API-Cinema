@@ -1,0 +1,2 @@
+Criados 100 filmes em 782 ms
+Deletados 100 filmes
