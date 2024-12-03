@@ -111,3 +111,23 @@
   **Tipo:** Bug  
   **Descrição:** Verificar se ao tentar buscar tickets por ID ocorre algum erro que faz com que o sistema pare de rodar localmente.
   **Resultado esperado:** A requisição deve retornar os dados corretamente, sem fazer o sistema parar.
+
+Segue uma tabela com as métricas aplicadas ao relatório:
+
+### **Métricas Aplicadas ao Relatório**
+
+| **Métrica**                         | **Descrição**                                                                                   | **Resultado**                               |
+|-------------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------|
+| **Número Total de Bugs Encontrados** | Total de problemas identificados durante os testes.                                            | 14                                         |
+| **Distribuição por Severidade**     | Quantidade de bugs categorizados por severidade.                                               | Críticos: 7, Altos: 4, Médios: 3, Baixos: 0|
+| **Distribuição por Tipo de Bug**    | Quantidade de bugs categorizados por tipo.                                                     | Autenticação: 8, Validação: 5, Resposta: 1, Erro de Sistema: 1 |
+| **Taxa de Bugs Críticos**           | Porcentagem de bugs críticos em relação ao total.                                              | (7/14) × 100% = 50%                        |
+| **Taxa de Melhoria Sugerida**       | Porcentagem de melhorias sugeridas em relação ao total de testes realizados.                   | (5/19) × 100% = 26,32%                     |
+| **Taxa de Conformidade de Respostas** | Porcentagem de respostas corretas em relação ao esperado nos testes avaliados.                 | N/A (Depende da execução dos testes)       |
+| **Tempo Médio para Identificação de Bugs** | Tempo médio para identificar os problemas durante os testes.                                   | N/A (Necessário coletar os tempos)         |
+| **Taxa de Regressões**              | Porcentagem de bugs que foram reintroduzidos após correção.                                    | N/A (Depende de ciclos futuros de teste)   |
+| **Impacto nas Funcionalidades**     | Proporção de funcionalidades impactadas pelos bugs.                                            | Autenticação: 4 funcionalidades, Validação: 3 funcionalidades |
+| **Resiliência ao Manuseio de Dados Inválidos** | Porcentagem de testes com respostas apropriadas para dados inválidos.                         | N/A (Depende da execução dos testes)       |
+| **Taxa de Bugs Aceitos**            | Porcentagem de bugs aceitos pela equipe de desenvolvimento.                                    | N/A (Depende da validação do time técnico) |
+| **Taxa de Duplicações**             | Porcentagem de bugs reportados que já existiam.                                                | N/A (Depende da revisão dos relatórios)    |
+
