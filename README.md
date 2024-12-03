@@ -34,6 +34,16 @@ Este projeto usa o framework NestJS para criar uma aplicação de cinema e Playw
 
 ## Instalação
 
+### Tecnologias utilizadas 
+
+- **Node.js**: Ambiente de execução para executar aplicações em JavaScript fora do navegador.  
+- **Playwright**: Ferramenta de automação de testes web que suporta navegadores como Chrome, Firefox e Safari.    
+- **K6**: Ferramenta gratuita e de código aberto para testes de carga e desempenho.  
+- **ChatGPT**: Solução de processamento de linguagem natural desenvolvida pela OpenAI.  
+- **GitHub**: Plataforma de desenvolvimento colaborativo baseada no sistema de controle de versões Git.  
+- **Postman**: Ferramenta para teste e documentação de requisições de APIs.  
+
+
 ### 1. Clonar o Repositório
 
 Clone o repositório para sua máquina local:
